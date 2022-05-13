@@ -13,9 +13,7 @@ eleventyNavigation:
 </form>
 {% if eleventy.edge.query.q %}
 <h2>Searching for “{{ eleventy.edge.query.q | escape }}”</h2>
-{% endif %}
 
-{% if eleventy.edge.query.q %}
   {% assign found = false %}
   {%- for page in search.pages %}
     {%- if page | searchFor: eleventy.edge.query.q %}
