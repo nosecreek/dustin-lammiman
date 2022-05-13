@@ -1,0 +1,19 @@
+---
+layout: false
+permalink: netlify/edge-functions/_generated/search-data.js
+permalinkBypassOutputDir: true
+eleventyExcludeFromCollections: true
+---
+export default {
+	"pages": [
+	{%- for entry in collections.posts %}
+	{%- if not entry.data.excludeFromSearch %}
+		{
+			"url": "{{ entry.data.page.url }}",
+			"title": "{{ entry.data.title }}",
+			"text": {{ entry.templateContent | striptags(true) | dump | safe }}
+		}{% if loop.revindex0 != 0 %},{% endif %}
+	{%- endif %}
+	{%- endfor %}
+	]
+}

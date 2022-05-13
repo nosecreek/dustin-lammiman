@@ -1,0 +1,25 @@
+---
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Search
+  order: 3
+---
+<h1>Search</h1>
+
+{% edge "liquid,md" %}
+<form action="/search/" method="get">
+<label>Search for <input type="search" name="q" value="{{ eleventy.edge.query.q | escape }}"></label>
+<button type="submit">Search</button>
+</form>
+{% if eleventy.edge.query.q %}
+<h2>Searching for “{{ eleventy.edge.query.q | escape }}”</h2>
+{% endif %}
+
+{% if eleventy.edge.query.q %}
+  {%- for page in search.pages %}
+    {%- if page | searchFor: eleventy.edge.query.q %}
+* [{{ page.title }}]({{ page.url }})
+    {%- endif %}
+  {%- endfor %}
+{% endif %}
+{% endedge %}
