@@ -16,10 +16,13 @@ eleventyNavigation:
 {% endif %}
 
 {% if eleventy.edge.query.q %}
+  {% assign found = false %}
   {%- for page in search.pages %}
     {%- if page | searchFor: eleventy.edge.query.q %}
+    {%- assign found = true %}
 * [{{ page.title }}]({{ page.url }})
     {%- endif %}
   {%- endfor %}
+  {% unless found %}_No results found._{% endunless %}
 {% endif %}
 {% endedge %}
