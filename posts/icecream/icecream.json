@@ -1,0 +1,4 @@
+{
+  "tags": ["icecream", "posts"],
+  "permalink": "/icecream/{{ page.fileSlug }}/"
+}
