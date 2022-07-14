@@ -1,0 +1,14 @@
+@use "_prism/prism-diff.css";
+@use "_prism/prism-base16-monokai.dark.css";
+@use "_includes/variables.scss" as *;
+
+/* Global stylesheet */
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  a {
+    color: #000;
+  }
+}
