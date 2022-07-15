@@ -3,5 +3,6 @@
     "hikes",
     "posts"
   ],
-  "permalink": "/hikes/{{ page.fileSlug }}/"
+  "permalink": "/hikes/{{ page.fileSlug }}/",
+  "layout": "layouts/post.njk"
 }

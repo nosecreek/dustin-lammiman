@@ -1,4 +1,8 @@
 {
-  "tags": ["icecream", "posts"],
-  "permalink": "/icecream/{{ page.fileSlug }}/"
+  "tags": [
+    "icecream",
+    "posts"
+  ],
+  "permalink": "/icecream/{{ page.fileSlug }}/",
+  "layout": "layouts/post.njk"
 }
