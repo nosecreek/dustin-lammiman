@@ -71,6 +71,11 @@ li {
   line-height: 2em;
 }
 
+hr {
+  border: 0;
+  border-bottom: 1px solid $border-color;
+}
+
 
 /* Layout */
 body {
