@@ -21,6 +21,10 @@ h5,
 h6 {
   font-family: $serif;
   text-transform: uppercase;
+
+  a {
+    font-family: $serif;
+  }
 }
 
 main h1 {
@@ -72,4 +76,41 @@ li {
 body {
   max-width: 800px;
   margin: 0 auto;
+}
+
+
+/* Navigation Menu & Header */
+header {
+  display: flex;
+  justify-content: space-between;
+  vertical-align: middle;
+  border-bottom: 1px solid $border-color;
+  padding: 1em 0;
+
+  h1 {
+    float: left;
+    margin: 0;
+  }
+}
+
+ul.nav {
+  list-style-type: none;
+  float: right;
+  margin: 0;
+
+  li {
+    display: inline-block;
+    padding-left: 1em;
+    line-height: 1em;
+
+    a {
+      font-family: $serif;
+      border-bottom: 0;
+      color: $font-color;
+
+      &:hover {
+        color: $link-color;
+      }
+    }
+  }
 }
