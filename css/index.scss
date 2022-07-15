@@ -59,5 +59,12 @@ pre[class*=language-] {
 }
 
 p {
-  line-height: 1.25em;
+  line-height: 2em;
+}
+
+
+/* Layout */
+body {
+  max-width: 800px;
+  margin: 0 auto;
 }

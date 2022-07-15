@@ -1,4 +1,7 @@
 {
-  "tags": ["hikes", "posts"],
+  "tags": [
+    "hikes",
+    "posts"
+  ],
   "permalink": "/hikes/{{ page.fileSlug }}/"
 }
