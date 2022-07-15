@@ -5,10 +5,59 @@
 /* Global stylesheet */
 * {
   box-sizing: border-box;
+  font-family: $sans;
 }
 
-h1 {
+body {
+  font-size: $font-size;
+  background: $bg-color;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $serif;
+  text-transform: uppercase;
+}
+
+main h1 {
+  font-size: 1.5em;
+}
+
+h2 {
+  font-size: 1.25em;
+}
+
+header h1 {
+  font-size: 1.125em;
+
   a {
-    color: #000;
+    color: $font-color;
+    border-bottom-width: 0;
+
+    &:hover {
+      border-bottom-width: 1px;
+      border-bottom-color: $font-color;
+    }
   }
+}
+
+a {
+  text-decoration: none;
+  color: $link-color;
+  border-bottom: 1px dashed $link-color;
+  line-height: 1em;
+  display: inline-block;
+}
+
+code[class*=language-],
+pre[class*=language-] {
+  font-size: .9em;
+}
+
+p {
+  line-height: 1.25em;
 }
