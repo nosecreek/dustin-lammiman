@@ -20,6 +20,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginNavigation);
   eleventyConfig.addPlugin(eleventySass);
 
+  // Add Shortcodes
+  eleventyConfig.addShortcode('excerpt', article => extractExcerpt(article));
+
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy");
   });
@@ -134,3 +137,34 @@ module.exports = function(eleventyConfig) {
     }
   };
 };
+
+function extractExcerpt(article) {
+  if (!article.hasOwnProperty('templateContent')) {
+    console.warn('Failed to extract excerpt: Document has no property "templateContent".');
+    return null;
+  }
+
+  if(article.data.excerpt) { return article.data.excerpt }
+  
+  let excerpt = '';
+  const content = article.templateContent;
+ 
+  // The start and end separators to try and match to extract the excerpt
+  const separatorsList = [
+    { start: '<!-- Excerpt Start -->', end: '<!-- Excerpt End -->' },
+    { start: '<p>', end: '</p>' },
+    { start: '<h2>', end: '</h2>' }
+  ];
+ 
+  separatorsList.some(separators => {
+    const startPosition = content.indexOf(separators.start);
+    const endPosition = content.indexOf(separators.end);
+ 
+    if (startPosition !== -1 && endPosition !== -1) {
+      excerpt = content.substring(startPosition + separators.start.length, endPosition).trim().substring(0, 200).concat("...");
+      return true; // Exit out of array loop on first match
+    }
+  });
+  
+  return excerpt;
+}
