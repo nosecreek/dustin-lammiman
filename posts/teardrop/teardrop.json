@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "teardrop",
+    "posts"
+  ],
+  "permalink": "/teardrop/{{ page.fileSlug }}/",
+  "layout": "layouts/post.njk"
+}
