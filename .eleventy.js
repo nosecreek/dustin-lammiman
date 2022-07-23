@@ -8,6 +8,7 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const eleventySass = require("eleventy-sass");
+const Image = require("@11ty/eleventy-img");
 
 module.exports = function(eleventyConfig) {
   // Copy the `img` and `css` folders to the output
@@ -22,6 +23,10 @@ module.exports = function(eleventyConfig) {
 
   // Add Shortcodes
   eleventyConfig.addShortcode('excerpt', article => extractExcerpt(article));
+  eleventyConfig.addShortcode('gallery', galleryname => imageGallery(galleryname));
+  eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
+  eleventyConfig.addLiquidShortcode("image", imageShortcode);
+  eleventyConfig.addJavaScriptFunction("image", imageShortcode);
 
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy");
@@ -167,4 +172,34 @@ function extractExcerpt(article) {
   });
   
   return excerpt;
+}
+
+function imageGallery(galleryname) {
+  const theFolder = "./images/" + galleryname;
+  const fs = require('fs');
+  let gallery = "<div class='photo-gallery'>";
+  fs.readdirSync(theFolder).forEach(file => {
+    gallery = gallery + `<a href="/images/${galleryname}/${file}" data-lightbox="${galleryname}"><img src="/images/${galleryname}/${file}"></a>`;
+  });
+  gallery = gallery + "</div>";
+  return gallery;
+}
+
+async function imageShortcode(src, alt, sizes="(max-width: 400px) 400w, 800w") {
+  let metadata = await Image(src, {
+    widths: [400, 800, 1920],
+    formats: ["jpeg"]
+  });
+
+  let imageAttributes = {
+    alt,
+    sizes,
+    loading: "lazy",
+    decoding: "async",
+  };
+
+  // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
+  return Image.generateHTML(metadata, imageAttributes, {
+    whitespaceMode: "inline"
+  });
 }
