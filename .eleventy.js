@@ -11,9 +11,10 @@ const eleventySass = require("eleventy-sass");
 const Image = require("@11ty/eleventy-img");
 
 module.exports = function(eleventyConfig) {
-  // Copy the `img` and `css` folders to the output
+  // Copy the `img`, `js`, and `css` folders to the output
   eleventyConfig.addPassthroughCopy("img");
-  eleventyConfig.addPassthroughCopy("css");
+  // eleventyConfig.addPassthroughCopy("css");
+  eleventyConfig.addPassthroughCopy("js");
 
   // Add plugins
   eleventyConfig.addPlugin(pluginRss);
@@ -181,7 +182,7 @@ async function imageGallery(galleryname) {
   const fs = require('fs');
   let gallery = "<div class='photo-gallery'>";
   let files = fs.readdirSync(theFolder);
-  
+
   for (const file of files) {
     const metadata = await Image(`${theFolder}/${file}`, {
       widths: [300, 1920],
@@ -199,7 +200,7 @@ async function imageGallery(galleryname) {
     const img = Image.generateHTML(metadata, imageAttributes, {
       whitespaceMode: "inline"
     });
-    gallery = gallery + `<a href='/${metadata.jpeg[1].outputPath}'>${img}</a>`;
+    gallery = gallery + `<a href='/${metadata.jpeg[1].outputPath}' data-lightbox="${galleryname}">${img}</a>`;
   };
 
   gallery = gallery + "</div>";
