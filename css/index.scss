@@ -158,6 +158,27 @@ ul.nav {
     border-bottom: 1px solid $font-color;
     margin-bottom: 1em;
     padding-bottom: 1em;
+    display: flex;
+    justify-content: space-between;
+    gap: 1em;
+
+    .featured-image {
+      text-align: right;
+      flex-basis: 50%;
+
+      img {
+        height: auto;
+        width: auto;
+        max-height: 100%;
+        max-height: 300px;
+      }
+    }
+  }
+
+  .main-post {
+    display: block;
+    flex-basis: 50%;
+    flex-grow: 1;
   }
 
   .postlist-link {
