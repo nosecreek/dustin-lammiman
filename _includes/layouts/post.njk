@@ -4,11 +4,14 @@ templateClass: tmpl-post
 ---
 <h1>{{ title }}</h1>
 
-<time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
 {%- for tag in tags | filterTagList %}
 {%- set tagUrl %}/{{ tag | slugify }}/{% endset %}
 <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
 {%- endfor %}
+
+<time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
+
+{% if featuredImage %}<span class="featured-image">{% image "." + featuredImage, title %}</span>{% endif %}
 
 {{ content | safe }}
 

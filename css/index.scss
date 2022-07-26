@@ -229,3 +229,25 @@ ul.nav {
     color: $link-color;
   }
 }
+
+
+/* Single Posts */
+.tmpl-post {
+  h1 {
+    display: inline-block;
+  }
+
+  time {
+    font-style: italic;
+    display: block;
+  }
+
+  .post-tag {
+    margin-bottom: .5em;
+    vertical-align: middle;
+  }
+
+  .featured-image img {
+    margin-top: 1em;
+  }
+}
