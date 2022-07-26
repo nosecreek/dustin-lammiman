@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "photos",
+    "posts"
+  ],
+  "permalink": "/photos/{{ page.fileSlug }}/",
+  "layout": "layouts/post.njk"
+}

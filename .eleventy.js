@@ -185,7 +185,7 @@ async function imageGallery(galleryname) {
 
   for (const file of files) {
     const metadata = await Image(`${theFolder}/${file}`, {
-      widths: [300, 1920],
+      widths: [300, 960, 1920],
       formats: ["jpeg"]
     });
 
@@ -200,7 +200,7 @@ async function imageGallery(galleryname) {
     const img = Image.generateHTML(metadata, imageAttributes, {
       whitespaceMode: "inline"
     });
-    gallery = gallery + `<a href='/${metadata.jpeg[1].outputPath}' data-lightbox="${galleryname}">${img}</a>`;
+    gallery = gallery + `<a href='/${metadata.jpeg[2]?.outputPath || metadata.jpeg[1]?.outputPath || metadata.jpeg[0].outputPath}' data-lightbox="${galleryname}">${img}</a>`;
   };
 
   gallery = gallery + "</div>";
