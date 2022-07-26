@@ -137,10 +137,13 @@ ul.nav {
   a {
     // max-width: 33.3%;
     // float: left;
+    border: none;
 
     img {
-      height: 200px;
+      max-height: 200px;
       width: auto;
+      border: 2px solid $font-color;
+      padding: 2px;
     }
   }
 }
