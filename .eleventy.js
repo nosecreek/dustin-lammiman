@@ -23,7 +23,9 @@ module.exports = function(eleventyConfig) {
 
   // Add Shortcodes
   eleventyConfig.addShortcode('excerpt', article => extractExcerpt(article));
-  eleventyConfig.addShortcode('gallery', galleryname => imageGallery(galleryname));
+  eleventyConfig.addNunjucksAsyncShortcode("gallery", galleryname => imageGallery(galleryname));
+  eleventyConfig.addLiquidShortcode("gallery", galleryname => imageGallery(galleryname));
+  eleventyConfig.addJavaScriptFunction("gallery", galleryname => imageGallery(galleryname));
   eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
   eleventyConfig.addLiquidShortcode("image", imageShortcode);
   eleventyConfig.addJavaScriptFunction("image", imageShortcode);
@@ -174,15 +176,34 @@ function extractExcerpt(article) {
   return excerpt;
 }
 
-function imageGallery(galleryname) {
+async function imageGallery(galleryname) {
   const theFolder = "./images/" + galleryname;
   const fs = require('fs');
   let gallery = "<div class='photo-gallery'>";
-  fs.readdirSync(theFolder).forEach(file => {
-    gallery = gallery + `<a href="/images/${galleryname}/${file}" data-lightbox="${galleryname}"><img src="/images/${galleryname}/${file}"></a>`;
-  });
+  let files = fs.readdirSync(theFolder);
+  
+  for (const file of files) {
+    const metadata = await Image(`${theFolder}/${file}`, {
+      widths: [300, 1920],
+      formats: ["jpeg"]
+    });
+
+    const imageAttributes = {
+      alt: "",
+      sizes: "300w",
+      loading: "lazy",
+      decoding: "async",
+    };
+  
+    // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
+    const img = Image.generateHTML(metadata, imageAttributes, {
+      whitespaceMode: "inline"
+    });
+    gallery = gallery + `<a href='/${metadata.jpeg[1].outputPath}'>${img}</a>`;
+  };
+
   gallery = gallery + "</div>";
-  return gallery;
+  return `${gallery}`;
 }
 
 async function imageShortcode(src, alt, sizes="(max-width: 400px) 400w, 800w") {

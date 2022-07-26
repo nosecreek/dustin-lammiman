@@ -124,3 +124,22 @@ ul.nav {
     }
   }
 }
+
+/* Photo Gallery */
+.photo-gallery {
+
+  display: flex;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 1em;
+
+  a {
+    // max-width: 33.3%;
+    // float: left;
+
+    img {
+      height: 200px;
+      width: auto;
+    }
+  }
+}
