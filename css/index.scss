@@ -162,9 +162,18 @@ ul.nav {
     justify-content: space-between;
     gap: 1em;
 
+    &.wide-image {
+      flex-wrap: wrap;
+
+      .featured-image {
+        flex-basis: 100%;
+        // order: -1;
+      }
+    }
+
     .featured-image {
       text-align: right;
-      flex-basis: 50%;
+      // flex-basis: 50%;
 
       img {
         height: auto;

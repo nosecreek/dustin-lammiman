@@ -2,6 +2,7 @@
 title: "Stanley Glacier"
 date: 2018-09-27T10:46:10-06:00
 featuredImage: "/images/glacier-header.jpg"
+wideImage: true
 areas: ["Storm Mountain"]
 parks: ["Kootenay National Park"]
 ---

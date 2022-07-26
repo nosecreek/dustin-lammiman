@@ -2,6 +2,7 @@
 title: "Ink Pots & Johnston Canyon"
 date: 2018-09-05T20:05:06-06:00
 featuredImage: "/images/inkpot-header.JPG"
+wideImage: true
 areas: ["Johnston Canyon"]
 parks: ["Banff National Park"]
 draft: false
