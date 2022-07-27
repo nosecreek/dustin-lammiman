@@ -199,6 +199,14 @@ ul.nav {
     display: block;
     font-style: italic;
   }
+
+  .tags {
+    display: block;
+
+    a:last-child {
+      margin: 0;
+    }
+  }
 }
 
 
@@ -212,7 +220,7 @@ ul.nav {
   /* 12px /16 */
   padding: 0.08333333333333em 0.3333333333333em;
   /* 1px 4px /12 */
-  margin-left: 0.6666666666667em;
+  margin-right: 0.6666666666667em;
   /* 8px /12 */
   // margin-top: 0.5em;
   /* 6px /12 */
