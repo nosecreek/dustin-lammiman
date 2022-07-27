@@ -13,10 +13,10 @@ format: image
 ---
 On Wednesday I picked up a new (used) car. 2001 Buick Century.
 
-<img src="/images/IMG_0817.jpg" /><!--more-->
+{% image "./images/IMG_0817.jpg", "" %}<!--more-->
 
-<img src="/images/IMG_0814.jpg" />
+{% image "./images/IMG_0814.jpg", "" %}
 
 It is a little bittersweet though, as my old car got taken away today.
 
-<img src="/images/IMG048.jpg" />
+{% image "./images/IMG048.jpg", "" %}
