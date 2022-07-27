@@ -129,15 +129,16 @@ ul.nav {
 /* Photo Gallery */
 .photo-gallery {
 
-  display: flex;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
   max-width: 100%;
-  gap: 1em;
+  gap: 1.5em 5%;
 
   a {
     // max-width: 33.3%;
     // float: left;
     border: none;
+    text-align: center;
 
     img {
       max-height: 200px;
