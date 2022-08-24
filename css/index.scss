@@ -240,6 +240,16 @@ ul.nav {
   }
 }
 
+.tags {
+  display: block;
+  margin-bottom: 1em;
+  line-height: 2em;
+
+  a:last-child {
+    margin-right: 0;
+  }
+}
+
 
 /* Single Posts */
 .tmpl-post {
@@ -263,15 +273,5 @@ ul.nav {
   img {
     display: block;
     margin: 1em auto;
-  }
-
-  .tags {
-    display: block;
-    margin-bottom: 1em;
-    line-height: 2em;
-
-    a:last-child {
-      margin-right: 0;
-    }
   }
 }
