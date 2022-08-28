@@ -1,0 +1,28 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-page
+---
+<h1>{{ title }}</h1>
+
+<span class="tags">
+  {%- for tag in tags | filterTagList %}
+    {%- set tagUrl %}/{{ tag | slugify }}/{% endset %}
+    <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+  {%- endfor %}
+</span>
+
+{% if featuredImage %}<span class="featured-image">{% image "." + featuredImage, title %}</span>{% endif %}
+
+{{ content | safe }}
+
+{%- if collections.posts %}
+{%- set nextPost = collections.posts | getNextCollectionItem(page) %}
+{%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+{%- if nextPost or previousPost %}
+<hr>
+<ul>
+  {%- if nextPost %}<li>Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>{% endif %}
+  {%- if previousPost %}<li>Previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></li>{% endif %}
+</ul>
+{%- endif %}
+{%- endif %}
