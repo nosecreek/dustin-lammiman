@@ -11,6 +11,8 @@ Hi, my name is Dustin and I'm a full-stack web developer.
 
 I also like [hiking](/hikes), [building things](/teardrop), and making [ice cream](/icecream).
 
+You can also find me on [GitHub](https://github.com/nosecreek) and [LinkedIn](https://www.linkedin.com/in/dustin-lammiman/).
+
 Here are a few projects I've been working on lately:
 
 ### Grocery Tracker
@@ -18,7 +20,7 @@ Here are a few projects I've been working on lately:
 _Grocery Tracker_ is a tool for saving money on your next trip to the grocery store. It keeps a price history of groceries from some of the major Canadian grocery chains. Think [camelcamelcamel](https://camelcamelcamel.com/), but for groceries.
 
 If you'd like to test it out without creating an account, feel free to use this demo login:
-Username: demo
+Username: demo  
 Password: demo
 
 - Website: https://grocerytracker.ca/
