@@ -1,7 +1,7 @@
 ---
-layout: layouts/page.njk
+layout: layouts/home.njk
 title: About Me
-templateClass: tmpl-page
+templateClass: tmpl-home
 # eleventyNavigation:
 #   key: about
 #   order: 10
