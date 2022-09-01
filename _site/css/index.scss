@@ -1,0 +1,145 @@
+@use "_prism/prism-diff.css";
+@use "_prism/prism-base16-monokai.dark.css";
+@use "_includes/variables.scss" as *;
+
+/* Global stylesheet */
+* {
+  box-sizing: border-box;
+  font-family: $sans;
+}
+
+body {
+  font-size: $font-size;
+  background: $bg-color;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $serif;
+  text-transform: uppercase;
+
+  a {
+    font-family: $serif;
+  }
+}
+
+main h1 {
+  font-size: 1.5em;
+}
+
+h2 {
+  font-size: 1.25em;
+}
+
+h3 {
+  font-size: 1.125em;
+}
+
+header h1 {
+  font-size: 1.125em;
+
+  a {
+    color: $font-color;
+    border-bottom-width: 0;
+
+    &:hover {
+      border-bottom-width: 1px;
+      border-bottom-color: $font-color;
+    }
+  }
+}
+
+a {
+  text-decoration: none;
+  color: $link-color;
+  border-bottom: 1px dashed $link-color;
+  line-height: 1em;
+  display: inline-block;
+}
+
+code[class*=language-],
+pre[class*=language-] {
+  font-size: .9em;
+}
+
+p,
+li {
+  line-height: 2em;
+}
+
+hr {
+  border: 0;
+  border-bottom: 1px solid $border-color;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+/* Layout */
+body {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+
+/* Navigation Menu & Header */
+header {
+  display: flex;
+  justify-content: space-between;
+  vertical-align: middle;
+  border-bottom: 1px solid $border-color;
+  padding: 1em 0;
+
+  h1 {
+    float: left;
+    margin: 0;
+  }
+}
+
+ul.nav {
+  list-style-type: none;
+  float: right;
+  margin: 0;
+
+  li {
+    display: inline-block;
+    padding-left: 1em;
+    line-height: 1em;
+
+    a {
+      font-family: $serif;
+      border-bottom: 0;
+      color: $font-color;
+
+      &:hover {
+        color: $link-color;
+      }
+    }
+  }
+}
+
+/* Photo Gallery */
+.photo-gallery {
+
+  display: flex;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 1em;
+
+  a {
+    // max-width: 33.3%;
+    // float: left;
+
+    img {
+      height: 200px;
+      width: auto;
+    }
+  }
+}
