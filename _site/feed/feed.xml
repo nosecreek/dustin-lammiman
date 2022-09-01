@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Dustin.Lammiman</title>
+	<subtitle>Full stack developer, ice cream maker, teardrop trailer builder</subtitle>
+	
+	<link href="https://dustin.lammiman.ca/feed/feed.xml" rel="self"/>
+	<link href="https://dustin.lammiman.ca/"/>
+	<updated>2021-12-23T00:00:00Z</updated>
+	<id>https://dustin.lammiman.ca/</id>
+	<author>
+		<name>Dustin Lammiman</name>
+		<email>dustin@nosecreekweb.ca</email>
+	</author>
+	
+	<entry>
+		<title>Eggnog &amp; Cola</title>
+		<link href="https://dustin.lammiman.ca/icecream/eggnong-coke/"/>
+		<updated>2021-12-23T00:00:00Z</updated>
+		<id>https://dustin.lammiman.ca/icecream/eggnong-coke/</id>
+		<content type="html">&lt;h2 id=&quot;eggnog-ice-cream&quot; tabindex=&quot;-1&quot;&gt;Eggnog Ice Cream &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/eggnong-coke/#eggnog-ice-cream&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;ingredients&quot; tabindex=&quot;-1&quot;&gt;Ingredients &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/eggnong-coke/#ingredients&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1/2 Cup Granulated Sugar&lt;/li&gt;
+&lt;li&gt;2 Tbsp Skim Milk Powder&lt;/li&gt;
+&lt;li&gt;1/4 Tsp Xanthan Gum&lt;/li&gt;
+&lt;li&gt;1 Tsp Ground Nutmeg&lt;/li&gt;
+&lt;li&gt;1 Tbsp Imitation Rum Extract&lt;/li&gt;
+&lt;li&gt;1 1/3 Cups Milk (I used 2%)&lt;/li&gt;
+&lt;li&gt;2 Tbsp Light Corn Syrup&lt;/li&gt;
+&lt;li&gt;1 1/3 Cup Whipping Cream&lt;/li&gt;
+&lt;li&gt;3 Large Egg Yolks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;instructions&quot; tabindex=&quot;-1&quot;&gt;Instructions &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/eggnong-coke/#instructions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;In a bowl whisk together sugar, milk powder, nutmeg, and xanthan gum.&lt;/li&gt;
+&lt;li&gt;In a pot add milk, whipping cream, and corn syrup.&lt;/li&gt;
+&lt;li&gt;Whisk dry ingredients into the pot of liquid ingredients. Be sure to mix well.&lt;/li&gt;
+&lt;li&gt;Heat ingredients on medium/high heat, stirring well, until it comes to a boil. Remove from heat.&lt;/li&gt;
+&lt;li&gt;Temper the yolks by placing them in a bowl and slowly adding ~1/2 cup of the hot mixture while whisking well. Pour the yolks back into the main pot while continuing to whisk well.&lt;/li&gt;
+&lt;li&gt;Heat the mixture until it begins to thicken or it reaches a temperature of 180 F.&lt;/li&gt;
+&lt;li&gt;Remove from heat and allow mixture to cool for before placing in an air-tight container.&lt;/li&gt;
+&lt;li&gt;Refridgerate for 12+ hours. Then churn according to your ice cream maker&#39;s instructions.&lt;/li&gt;
+&lt;li&gt;Split the ice cream into two containers, each ~1L in size. You now have Eggnog ice cream. To make it eggnog and cola ice cream, make cola ice cream (below) and layer it on top!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;cola-ice-cream&quot; tabindex=&quot;-1&quot;&gt;Cola Ice Cream &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/eggnong-coke/#cola-ice-cream&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Note - this one didn&#39;t really turn out like I hoped. Not a lot of Cola flavour. I&#39;d like to try finding a Cola syrup for my next attempt. *&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;ingredients-1&quot; tabindex=&quot;-1&quot;&gt;Ingredients &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/eggnong-coke/#ingredients-1&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;5 Cups Cola&lt;/li&gt;
+&lt;li&gt;1/3 Cup Skim Milk Powder&lt;/li&gt;
+&lt;li&gt;1/4 Tsp Xanthan Gum&lt;/li&gt;
+&lt;li&gt;2 Tbsp Corn Syrup&lt;/li&gt;
+&lt;li&gt;1 1/3 Cup Whipping Cream&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;instructions-1&quot; tabindex=&quot;-1&quot;&gt;Instructions &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/eggnong-coke/#instructions-1&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Place Cola in a medium pot and boil for ~30-45 minutes, until you have about 1 1/2 Cups of liquid remaining.&lt;/li&gt;
+&lt;li&gt;Meanwhile, in a large bowl whisk together the milk powder and xanthan gum.&lt;/li&gt;
+&lt;li&gt;Add cream and dry ingredients to the reduced cola, whisking well as you add them.&lt;/li&gt;
+&lt;li&gt;Bring the mixture to a simmer, long enough to allow the sugars to completely dissolve into the mixture.&lt;/li&gt;
+&lt;li&gt;Allow to cool, then place mixture in a sealed contained and refridgerate for 12+ hours.&lt;/li&gt;
+&lt;li&gt;Churn according to your ice cream maker&#39;s instructions.&lt;/li&gt;
+&lt;li&gt;Split the ice cream into two containers, each ~1L in size. You now have Cola ice cream. To make it eggnog and cola ice cream, layer on top of your eggnog ice cream!&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Millionaire&#39;s Shortbread</title>
+		<link href="https://dustin.lammiman.ca/icecream/millionaire-shortbread/"/>
+		<updated>2021-12-17T00:00:00Z</updated>
+		<id>https://dustin.lammiman.ca/icecream/millionaire-shortbread/</id>
+		<content type="html">&lt;h2 id=&quot;millionaire-s-shortbread-ice-cream&quot; tabindex=&quot;-1&quot;&gt;Millionaire&#39;s Shortbread Ice Cream &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/millionaire-shortbread/#millionaire-s-shortbread-ice-cream&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;ingredients&quot; tabindex=&quot;-1&quot;&gt;Ingredients &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/millionaire-shortbread/#ingredients&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1/2 Cup Granulated Sugar&lt;/li&gt;
+&lt;li&gt;2 Tbsp Skim Milk Powder&lt;/li&gt;
+&lt;li&gt;1/4 Tsp Xanthan Gum&lt;/li&gt;
+&lt;li&gt;3 Tbsp Cocoa Powder&lt;/li&gt;
+&lt;li&gt;1 1/3 Cups Milk (I used 2%)&lt;/li&gt;
+&lt;li&gt;3 Tbsp Water&lt;/li&gt;
+&lt;li&gt;2 Tbsp Light Corn Syrup&lt;/li&gt;
+&lt;li&gt;1 1/3 Cup Whipping Cream&lt;/li&gt;
+&lt;li&gt;Shortbread Cookies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;instructions&quot; tabindex=&quot;-1&quot;&gt;Instructions &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/millionaire-shortbread/#instructions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;In a bowl whisk together sugar, milk powder, cocoa powder, and xanthan gum.&lt;/li&gt;
+&lt;li&gt;In a pot add milk and corn syrup.&lt;/li&gt;
+&lt;li&gt;Whisk dry ingredients into the pot of liquid ingredients. Be sure to mix well.&lt;/li&gt;
+&lt;li&gt;Heat ingredients for ~5 minutes on medium heat, stirring well, until sugar is disolved.&lt;/li&gt;
+&lt;li&gt;Remove from heat and add remaining cream and allow mixture to cool for a few minutes.&lt;/li&gt;
+&lt;li&gt;Refridgerate for 12+ hours. Then churn according to your ice cream maker&#39;s instructions.&lt;/li&gt;
+&lt;li&gt;When ice cream is almost finished churning, cut shortbread cookies into small pieces and add to the ice cream dasher.&lt;/li&gt;
+&lt;li&gt;Once it is well mixed, move your ice cream into an airtight container. Layer half the ice cream, then caramel sauce, then the rest of the ice cream.&lt;/li&gt;
+&lt;li&gt;Freeze the ice cream for 4+ hours before serving.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;caramel-sauce&quot; tabindex=&quot;-1&quot;&gt;Caramel Sauce &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/millionaire-shortbread/#caramel-sauce&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;ingredients-1&quot; tabindex=&quot;-1&quot;&gt;Ingredients &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/millionaire-shortbread/#ingredients-1&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;3/8 Cup Salted Butter (start with 1/2 cup of butter, and use 3/4 of that)&lt;/li&gt;
+&lt;li&gt;3/4 Cup Brown Sugar (packed)&lt;/li&gt;
+&lt;li&gt;1 Tbsp Water&lt;/li&gt;
+&lt;li&gt;Pinch of Salt&lt;/li&gt;
+&lt;li&gt;1/4 Cup Evaporated Milk (I know this is a small amount from a large can - every Christmas I make a batch of &lt;a href=&quot;https://www.myfoodandfamily.com/recipe/051833/fantasy-fudge&quot;&gt;&lt;em&gt;fantasy fudge&lt;/em&gt;&lt;/a&gt; and so I&#39;m always looking for recipes that will use the excess evaporate milk. If you don&#39;t already have an open can, there are plenty of great caramel recipes that use heavy cream that should work fine instead.)&lt;/li&gt;
+&lt;li&gt;1 Tsp Vanilla Extract&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;instructions-1&quot; tabindex=&quot;-1&quot;&gt;Instructions &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/millionaire-shortbread/#instructions-1&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Melt butter, sugar, water, and salt together in small pan.&lt;/li&gt;
+&lt;li&gt;Bring to a boil, then reduce to a high simmer for about 5 minutes.&lt;/li&gt;
+&lt;li&gt;Remove from heat and add evaporated milk and vanilla.&lt;/li&gt;
+&lt;li&gt;Mix well, then move to an airtight container and allow to cool completely in the refridgerator before adding to your ice cream.&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Candy Cane Ice Cream</title>
+		<link href="https://dustin.lammiman.ca/icecream/candycane/"/>
+		<updated>2021-12-06T00:00:00Z</updated>
+		<id>https://dustin.lammiman.ca/icecream/candycane/</id>
+		<content type="html">&lt;h2 id=&quot;candy-cane-ice-cream&quot; tabindex=&quot;-1&quot;&gt;Candy Cane Ice Cream &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/candycane/#candy-cane-ice-cream&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;ingredients&quot; tabindex=&quot;-1&quot;&gt;Ingredients &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/candycane/#ingredients&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1/2 Cup Granulated Sugar&lt;/li&gt;
+&lt;li&gt;2 Tbsp Skim Milk Powder&lt;/li&gt;
+&lt;li&gt;1/4 Tsp Xanthan Gum&lt;/li&gt;
+&lt;li&gt;1 1/3 Cups Milk (I used 2%)&lt;/li&gt;
+&lt;li&gt;2 Tbsp Light Corn Syrup&lt;/li&gt;
+&lt;li&gt;1 1/3 Cup Whipping Cream&lt;/li&gt;
+&lt;li&gt;1/2 Tsp Vanilla Extract&lt;/li&gt;
+&lt;li&gt;1/4 Tsp Mint Extract&lt;/li&gt;
+&lt;li&gt;2 Ounces Dark (70%) Chocolate&lt;/li&gt;
+&lt;li&gt;1 Tsp Vegetable Oil&lt;/li&gt;
+&lt;li&gt;3 Regular Size Candy Canes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;instructions&quot; tabindex=&quot;-1&quot;&gt;Instructions &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/candycane/#instructions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Use a food processor to break the candy canes into small pieces.&lt;/li&gt;
+&lt;li&gt;In a bowl whisk together sugar, milk powder, and xanthan gum.&lt;/li&gt;
+&lt;li&gt;In a pot add milk and corn syrup.&lt;/li&gt;
+&lt;li&gt;Whisk dry ingredients into the pot of liquid ingredients. Be sure to mix well.&lt;/li&gt;
+&lt;li&gt;Heat ingredients for ~5 minutes on medium heat, stirring well, until sugar is disolved.&lt;/li&gt;
+&lt;li&gt;Remove from heat and add remaining cream and allow mixture to cool for a few minutes.&lt;/li&gt;
+&lt;li&gt;Refridgerate for 12+ hours. Then churn according to your ice cream maker&#39;s instructions.&lt;/li&gt;
+&lt;li&gt;While ice cream is churning, place a heatproof bowl above a pot that contains about 1 inch of water. The bowl should rest on the pot, but not touch the water.&lt;/li&gt;
+&lt;li&gt;Combine chocolate and vegetable oil in the bowl. Turn the heat to low and stir occasionally until the chocolate is melted. Remove from heat, but leave the bowl on top of the pot until your ice cream is almost ready.&lt;/li&gt;
+&lt;li&gt;When your ice cream is almost ready, slowly drizzle the chocolate into the ice cream. Pour in a thin, steady stream. This will allow the chocolate to harden as it touches the ice cream, creating tasty chocolate speckles.&lt;/li&gt;
+&lt;li&gt;Add candy cane pieces to the ice cream. Once it is well mixed, move your ice cream into an airtight container. Layer half the ice cream, then chocolate sauce, then the rest of the ice cream.&lt;/li&gt;
+&lt;li&gt;Freeze the ice cream for 4+ hours before serving.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;chocolate-sauce&quot; tabindex=&quot;-1&quot;&gt;Chocolate Sauce &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/candycane/#chocolate-sauce&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Chocolate sauce is optional. It&#39;s delicious without it too! *&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;ingredients-1&quot; tabindex=&quot;-1&quot;&gt;Ingredients &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/candycane/#ingredients-1&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1/4 Cup Cocoa Powder&lt;/li&gt;
+&lt;li&gt;1/4 Cup Sugar&lt;/li&gt;
+&lt;li&gt;1/4 Cup Water&lt;/li&gt;
+&lt;li&gt;Pinch of Salt&lt;/li&gt;
+&lt;li&gt;1/2 Tsp Vanilla&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;instructions-1&quot; tabindex=&quot;-1&quot;&gt;Instructions &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/candycane/#instructions-1&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Whisk together cocoa and sugar in a saucepan.&lt;/li&gt;
+&lt;li&gt;Add water and salt and bring to a boil over medium-high heat, continuing to whisk the mixture.&lt;/li&gt;
+&lt;li&gt;Reduce to a simmer and continue to whisk for about 30 seconds.&lt;/li&gt;
+&lt;li&gt;Remove from heat and add vanilla.&lt;/li&gt;
+&lt;li&gt;Store in the refridgerator in a sealed container.&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Rhubarb Ice Cream</title>
+		<link href="https://dustin.lammiman.ca/icecream/rhubarb/"/>
+		<updated>2021-08-23T00:00:00Z</updated>
+		<id>https://dustin.lammiman.ca/icecream/rhubarb/</id>
+		<content type="html">&lt;h2 id=&quot;rhubarb-ice-cream&quot; tabindex=&quot;-1&quot;&gt;Rhubarb Ice Cream &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/rhubarb/#rhubarb-ice-cream&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;ingredients&quot; tabindex=&quot;-1&quot;&gt;Ingredients &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/rhubarb/#ingredients&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1 1/2 Tbsp Granulated Sugar&lt;/li&gt;
+&lt;li&gt;3 Tbsp Skim Milk Powder&lt;/li&gt;
+&lt;li&gt;1/4 Tsp Xanthan Gum&lt;/li&gt;
+&lt;li&gt;2/3 Cup Ikea DRYCK RABARBER Rhubarb syrup&lt;/li&gt;
+&lt;li&gt;1 Cup Milk (I used 2%)&lt;/li&gt;
+&lt;li&gt;2 Tbsp Light Corn Syrup&lt;/li&gt;
+&lt;li&gt;1 1/3 Cup Whipping Cream&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;instructions&quot; tabindex=&quot;-1&quot;&gt;Instructions &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/rhubarb/#instructions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;In a large bowl whisk together sugar, milk powder, and xanthan gum.&lt;/li&gt;
+&lt;li&gt;Add milk, rhubarb syrup, and corn syrup. Mix very wwell.&lt;/li&gt;
+&lt;li&gt;Add cream and mix well again.&lt;/li&gt;
+&lt;li&gt;Place mixture in a sealed contained and refridgerate for 12+ hours.&lt;/li&gt;
+&lt;li&gt;Churn according to your ice cream maker&#39;s instructions. Place in a sealed container and freeze for 4+ hours before serving.&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Root Beer Float Ice Cream</title>
+		<link href="https://dustin.lammiman.ca/icecream/rootbeer/"/>
+		<updated>2021-07-19T00:00:00Z</updated>
+		<id>https://dustin.lammiman.ca/icecream/rootbeer/</id>
+		<content type="html">&lt;h2 id=&quot;root-beer-float-ice-cream&quot; tabindex=&quot;-1&quot;&gt;Root Beer Float Ice Cream &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/rootbeer/#root-beer-float-ice-cream&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;ingredients&quot; tabindex=&quot;-1&quot;&gt;Ingredients &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/rootbeer/#ingredients&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;6 Tbsp Granulated Sugar&lt;/li&gt;
+&lt;li&gt;2 Tbsp Skim Milk Powder&lt;/li&gt;
+&lt;li&gt;1/4 Tsp Xanthan Gum&lt;/li&gt;
+&lt;li&gt;6 Tbsp Root Beer Syrup (I used Organic Fair Root Beer Syrup, you may need to adjust quantities for other brands. This was the suggested amount to make 3 Cups of Root Beer)&lt;/li&gt;
+&lt;li&gt;1 1/3 Cups Milk (I used 2%)&lt;/li&gt;
+&lt;li&gt;1 1/3 Cup Whipping Cream&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;instructions&quot; tabindex=&quot;-1&quot;&gt;Instructions &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/rootbeer/#instructions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;In a large bowl whisk together sugar, milk powder, and xanthan gum.&lt;/li&gt;
+&lt;li&gt;Add milk and root beer syrup. Mix very well.&lt;/li&gt;
+&lt;li&gt;Add cream and mix well again.&lt;/li&gt;
+&lt;li&gt;Place mixture in a sealed contained and refridgerate for 12+ hours.&lt;/li&gt;
+&lt;li&gt;Churn according to your ice cream maker&#39;s instructions.&lt;/li&gt;
+&lt;li&gt;Split the ice cream into two containers, each ~1L in size. You now have Root Beer ice cream. To make it root beer float ice cream, make your favourite vanilla ice cream, and layer on top of your root beer ice cream!&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Put on the ceiling</title>
+		<link href="https://dustin.lammiman.ca/teardrop/ceiling/"/>
+		<updated>2021-06-28T00:00:00Z</updated>
+		<id>https://dustin.lammiman.ca/teardrop/ceiling/</id>
+		<content type="html">&lt;p&gt;Got most of the ceiling on. Front window is just in temporarily to test the fit.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>S&#39;More Ice Cream</title>
+		<link href="https://dustin.lammiman.ca/icecream/smore/"/>
+		<updated>2021-06-25T00:00:00Z</updated>
+		<id>https://dustin.lammiman.ca/icecream/smore/</id>
+		<content type="html">&lt;h2 id=&quot;s-more-ice-cream&quot; tabindex=&quot;-1&quot;&gt;S&#39;More Ice Cream &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/smore/#s-more-ice-cream&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;ingredients&quot; tabindex=&quot;-1&quot;&gt;Ingredients &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/smore/#ingredients&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;100g Marshmallows (I used 4 Jumbo No Name Marshmallows)&lt;/li&gt;
+&lt;li&gt;1/4 Cup Granulated Sugar&lt;/li&gt;
+&lt;li&gt;2 Tbsp Skim Milk Powder&lt;/li&gt;
+&lt;li&gt;1/4 Tsp Xanthan Gum&lt;/li&gt;
+&lt;li&gt;1 1/3 Cups Milk (I used 2%)&lt;/li&gt;
+&lt;li&gt;2 Tbsp Light Corn Syrup&lt;/li&gt;
+&lt;li&gt;1 1/3 Cup Whipping Cream&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;instructions&quot; tabindex=&quot;-1&quot;&gt;Instructions &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/smore/#instructions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Place marshmallows on a piece of parchment paper on an 8x12 cookie sheet. Broil in oven until tops are well toasted (almost burnt, but not quite). Rotate and repeat until all side of the mashmallows are toasted.&lt;/li&gt;
+&lt;li&gt;In a bowl whisk together sugar, milk powder, and xanthan gum.&lt;/li&gt;
+&lt;li&gt;In a pot add milk and corn syrup.&lt;/li&gt;
+&lt;li&gt;Whisk dry ingredients into the pot of liquid ingredients. Be sure to mix well.&lt;/li&gt;
+&lt;li&gt;Add toasted marshmallows and heat ingredients for ~5 minutes on medium heat, stirring well, until sugar is disolved.&lt;/li&gt;
+&lt;li&gt;Add remaining cream and allow mixture to cool for a few minutes.&lt;/li&gt;
+&lt;li&gt;Blend mixture in a blender, then place in a sealed contained. Refridgerate for 12+ hours.&lt;/li&gt;
+&lt;li&gt;Churn according to your ice cream maker&#39;s instructions.&lt;/li&gt;
+&lt;li&gt;About 5 minutes before churning is complete, add graham cracker chunks and ganache bits.&lt;/li&gt;
+&lt;li&gt;Layer about 1/2 of the ice cream into a container, then top with chocolate syrup, and layer the remaining ice cream on top. Freeze for 4+ hours before serving.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;graham-cracker-chunks&quot; tabindex=&quot;-1&quot;&gt;Graham Cracker Chunks &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/smore/#graham-cracker-chunks&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;ingredients-1&quot; tabindex=&quot;-1&quot;&gt;Ingredients &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/smore/#ingredients-1&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;6 Whole Graham Crackers&lt;/li&gt;
+&lt;li&gt;1/3 Cup Brown Sugar&lt;/li&gt;
+&lt;li&gt;3 Tbsp Melted Butter&lt;/li&gt;
+&lt;li&gt;1/2 Tsp Vanilla&lt;/li&gt;
+&lt;li&gt;1/2 Tsp Salt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;instructions-1&quot; tabindex=&quot;-1&quot;&gt;Instructions &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/smore/#instructions-1&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Preheat over to 350 F&lt;/li&gt;
+&lt;li&gt;Use your hands to crush graham crackers into a mixing bowl. Some chunks should be bite size, some smaller.&lt;/li&gt;
+&lt;li&gt;Add brown sugar, salt, vanilla, and butter and mix well.&lt;/li&gt;
+&lt;li&gt;Line a cookie sheet with parchment paper. Spread mixture onto cookie sheet.&lt;/li&gt;
+&lt;li&gt;Bake for about 10 minutes&lt;/li&gt;
+&lt;li&gt;Once cooled, break into pieces and store in a container until ready to add to ice cream&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;ganache-bits&quot; tabindex=&quot;-1&quot;&gt;Ganache Bits &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/smore/#ganache-bits&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;ingredients-2&quot; tabindex=&quot;-1&quot;&gt;Ingredients &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/smore/#ingredients-2&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2/3 Cup Whipping Cream&lt;/li&gt;
+&lt;li&gt;1 Tbsp Granulated Sugar&lt;/li&gt;
+&lt;li&gt;1 Cup Chocolate (I used 80g of 80% Dark Chocolate + 2/3 Cup Chocolate Chips)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;instructions-2&quot; tabindex=&quot;-1&quot;&gt;Instructions &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/smore/#instructions-2&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Mix cream and sugar in a pot. Stir well and heat until the mixture comes to a simmer.&lt;/li&gt;
+&lt;li&gt;Remove mixture from the heat and add chocolate. Stir well for about 2 minutes.&lt;/li&gt;
+&lt;li&gt;Place mixture in a shallow airtight container and freeze for at least 2 hours.&lt;/li&gt;
+&lt;li&gt;Before adding to your ice cream, cut into small cubes.&lt;/li&gt;
+&lt;li&gt;NOTE: Use 1/2 of this ganache in a batch of ice cream.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;chocolate-syrup&quot; tabindex=&quot;-1&quot;&gt;Chocolate Syrup &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/smore/#chocolate-syrup&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;ingredients-3&quot; tabindex=&quot;-1&quot;&gt;Ingredients &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/smore/#ingredients-3&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1/4 Cup Cocoa Powder&lt;/li&gt;
+&lt;li&gt;1/4 Cup Sugar&lt;/li&gt;
+&lt;li&gt;1/4 Cup Water&lt;/li&gt;
+&lt;li&gt;Pinch of Salt&lt;/li&gt;
+&lt;li&gt;1/2 Tsp Vanilla&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;instructions-3&quot; tabindex=&quot;-1&quot;&gt;Instructions &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/smore/#instructions-3&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Whisk together cocoa and sugar in a saucepan.&lt;/li&gt;
+&lt;li&gt;Add water and salt and bring to a boil over medium-high heat, continuing to whisk the mixture.&lt;/li&gt;
+&lt;li&gt;Reduce to a simmer and continue to whisk for about 30 seconds.&lt;/li&gt;
+&lt;li&gt;Remove from heat and add vanilla.&lt;/li&gt;
+&lt;li&gt;Store in the refridgerator in a sealed container.&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Galley Cabinets</title>
+		<link href="https://dustin.lammiman.ca/teardrop/galley1/"/>
+		<updated>2021-05-31T00:00:00Z</updated>
+		<id>https://dustin.lammiman.ca/teardrop/galley1/</id>
+		<content type="html">&lt;p&gt;We&#39;ve got all the galley cabinets framed in. The stuff above the counters to will all be sliding doors. Cooler is on a shelf that pulls out, and has a 12v electrical socket it plugs into. Bellow the cabinet we still need to build some drawers and cabinet doors.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Lemon Sour Cream Ice Cream</title>
+		<link href="https://dustin.lammiman.ca/icecream/lemon/"/>
+		<updated>2021-05-13T00:00:00Z</updated>
+		<id>https://dustin.lammiman.ca/icecream/lemon/</id>
+		<content type="html">&lt;h2 id=&quot;lemon-sour-cream-ice-cream&quot; tabindex=&quot;-1&quot;&gt;Lemon Sour Cream Ice Cream &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/lemon/#lemon-sour-cream-ice-cream&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;ingredients&quot; tabindex=&quot;-1&quot;&gt;Ingredients &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/lemon/#ingredients&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1/2 Cup Granulated Sugar&lt;/li&gt;
+&lt;li&gt;2 Tbsp Skim Milk Powder&lt;/li&gt;
+&lt;li&gt;1/4 Tsp Xanthan Gum&lt;/li&gt;
+&lt;li&gt;2 Tbsp Light Corn Syrup&lt;/li&gt;
+&lt;li&gt;1 1/3 Cups Milk (I used 2%)&lt;/li&gt;
+&lt;li&gt;1/3 Cup Whipping Cream&lt;/li&gt;
+&lt;li&gt;1 Cup Sour Cream&lt;/li&gt;
+&lt;li&gt;1 Tbsp Lemon Juice&lt;/li&gt;
+&lt;li&gt;1/2 Tsp Lemon Extract&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;instructions&quot; tabindex=&quot;-1&quot;&gt;Instructions &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/lemon/#instructions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;In a bowl whisk together sugar, milk powder, and xanthan gum&lt;/li&gt;
+&lt;li&gt;In a medium pot, add corn syrup to milk and cream&lt;/li&gt;
+&lt;li&gt;Whisk dry ingredients into the pot of liquid ingredients. Be sure to mix well.&lt;/li&gt;
+&lt;li&gt;Heat ingredients for ~5 minutes on medium heat, until sugar is disolved&lt;/li&gt;
+&lt;li&gt;Add sour cream, lemon juice, and extract. Stir well, and place in a sealed contained. Refridgerate for 12+ hours.&lt;/li&gt;
+&lt;li&gt;Churn according to your ice cream maker&#39;s instructions.&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Cheesecake Ice Cream</title>
+		<link href="https://dustin.lammiman.ca/icecream/cheesecake/"/>
+		<updated>2021-05-07T00:00:00Z</updated>
+		<id>https://dustin.lammiman.ca/icecream/cheesecake/</id>
+		<content type="html">&lt;h2 id=&quot;cheesecake-ice-cream&quot; tabindex=&quot;-1&quot;&gt;Cheesecake Ice Cream &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/cheesecake/#cheesecake-ice-cream&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;ingredients&quot; tabindex=&quot;-1&quot;&gt;Ingredients &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/cheesecake/#ingredients&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1/2 Cup Granulated Sugar&lt;/li&gt;
+&lt;li&gt;2 Tbsp Skim Milk Powder&lt;/li&gt;
+&lt;li&gt;1/4 Tsp Xanthan Gum&lt;/li&gt;
+&lt;li&gt;1 1/3 Cups Milk (I used 2%)&lt;/li&gt;
+&lt;li&gt;2 Tbsp Light Corn Syrup&lt;/li&gt;
+&lt;li&gt;2/3 Cup Whipping Cream&lt;/li&gt;
+&lt;li&gt;1/2 Tsp Lemon Juice&lt;/li&gt;
+&lt;li&gt;2/3 Cup Cream Cheese&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;instructions&quot; tabindex=&quot;-1&quot;&gt;Instructions &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/cheesecake/#instructions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;In a bowl whisk together sugar, milk powder, and xanthan gum.&lt;/li&gt;
+&lt;li&gt;In a pot add milk and corn syrup.&lt;/li&gt;
+&lt;li&gt;Whisk dry ingredients into the pot of liquid ingredients. Be sure to mix well.&lt;/li&gt;
+&lt;li&gt;Cut cream cheese into small squares and add to the pot.&lt;/li&gt;
+&lt;li&gt;Heat ingredients for ~5 minutes on medium heat, stirring well, until sugar is disolved. Cream cheese will likely still be fairly chunky.&lt;/li&gt;
+&lt;li&gt;Add remaining cream and lemon juice, and place in a sealed contained. Refridgerate for 12+ hours.&lt;/li&gt;
+&lt;li&gt;Blend ice cream mixture in a blender, then churn according to your ice cream maker&#39;s instructions.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;(Optional)&lt;/em&gt; About half way through churning, add graham cracker crumble - see below&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;graham-cracker-crumble&quot; tabindex=&quot;-1&quot;&gt;Graham Cracker Crumble &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/cheesecake/#graham-cracker-crumble&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;ingredients-1&quot; tabindex=&quot;-1&quot;&gt;Ingredients &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/cheesecake/#ingredients-1&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;6 Whole Graham Crackers&lt;/li&gt;
+&lt;li&gt;1/3 Cup Brown Sugar&lt;/li&gt;
+&lt;li&gt;3 Tbsp Melted Butter&lt;/li&gt;
+&lt;li&gt;1/2 Tsp Vanilla&lt;/li&gt;
+&lt;li&gt;1/2 Tsp Salt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;instructions-1&quot; tabindex=&quot;-1&quot;&gt;Instructions &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/cheesecake/#instructions-1&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Preheat over to 350 F&lt;/li&gt;
+&lt;li&gt;Place graham crackers in a food processor and blend until very fine&lt;/li&gt;
+&lt;li&gt;Add brown sugar and continue to blend&lt;/li&gt;
+&lt;li&gt;Add butter, vanilla, and salt, and blend on last time.&lt;/li&gt;
+&lt;li&gt;Mix ingredients together&lt;/li&gt;
+&lt;li&gt;Line a cookie sheet with parchment paper. Place mixture on cookie sheet and flatten.&lt;/li&gt;
+&lt;li&gt;Bake for about 10 minutes&lt;/li&gt;
+&lt;li&gt;Once cooled, break into pieces and store in a container until read to add to ice cream&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Chai Cream Ice Cream</title>
+		<link href="https://dustin.lammiman.ca/icecream/chai/"/>
+		<updated>2021-05-05T00:00:00Z</updated>
+		<id>https://dustin.lammiman.ca/icecream/chai/</id>
+		<content type="html">&lt;h2 id=&quot;chai-cream-ice-cream&quot; tabindex=&quot;-1&quot;&gt;Chai Cream Ice Cream &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/chai/#chai-cream-ice-cream&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;ingredients&quot; tabindex=&quot;-1&quot;&gt;Ingredients &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/chai/#ingredients&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1/2 Cup Granulated Sugar&lt;/li&gt;
+&lt;li&gt;6 Tbsp Skim Milk Powder&lt;/li&gt;
+&lt;li&gt;1/4 Tsp Xanthan Gum&lt;/li&gt;
+&lt;li&gt;1 2/3 Cups Whipping Cream&lt;/li&gt;
+&lt;li&gt;1 Cup Chai Concentrate (I used &lt;em&gt;Oregon Chai&#39;s Original Chai Tea Concentrate&lt;/em&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;instructions&quot; tabindex=&quot;-1&quot;&gt;Instructions &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/icecream/chai/#instructions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;In a bowl whisk together sugar, milk powder, and xanthan gum&lt;/li&gt;
+&lt;li&gt;In a medium pot, add 1/3 cup of cream and the chai concentrate&lt;/li&gt;
+&lt;li&gt;Whisk dry ingredients into the pot of liquid ingredients. Be sure to mix well.&lt;/li&gt;
+&lt;li&gt;Heat ingredients for ~5 minutes on medium heat, until sugar is disolved&lt;/li&gt;
+&lt;li&gt;Add remaining cream and place in a sealed contained. Refridgerate for 12+ hours.&lt;/li&gt;
+&lt;li&gt;Churn according to your ice cream maker&#39;s instructions.&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Framed Benches</title>
+		<link href="https://dustin.lammiman.ca/teardrop/benches/"/>
+		<updated>2021-04-19T00:00:00Z</updated>
+		<id>https://dustin.lammiman.ca/teardrop/benches/</id>
+		<content type="html">&lt;p&gt;Framing in some storage benches and shelves.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Bulkhead</title>
+		<link href="https://dustin.lammiman.ca/teardrop/bulkhead/"/>
+		<updated>2021-04-17T00:00:00Z</updated>
+		<id>https://dustin.lammiman.ca/teardrop/bulkhead/</id>
+		<content type="html">&lt;p&gt;Installed the bulkhead between the cabin and the galley&lt;/p&gt;
+&lt;div class=&quot;photo-gallery&quot;&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/EBkscvKpp--1920.jpeg&quot; data-lightbox=&quot;trailer-bulkhead&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/EBkscvKpp--300.jpeg&quot; width=&quot;1920&quot; height=&quot;1440&quot; srcset=&quot;https://dustin.lammiman.ca/img/EBkscvKpp--300.jpeg 300w, https://dustin.lammiman.ca/img/EBkscvKpp--960.jpeg 960w, https://dustin.lammiman.ca/img/EBkscvKpp--1920.jpeg 1920w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/g3IGW8vrI8-1920.jpeg&quot; data-lightbox=&quot;trailer-bulkhead&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/g3IGW8vrI8-300.jpeg&quot; width=&quot;1920&quot; height=&quot;1440&quot; srcset=&quot;https://dustin.lammiman.ca/img/g3IGW8vrI8-300.jpeg 300w, https://dustin.lammiman.ca/img/g3IGW8vrI8-960.jpeg 960w, https://dustin.lammiman.ca/img/g3IGW8vrI8-1920.jpeg 1920w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/B6HtHeX5SL-1920.jpeg&quot; data-lightbox=&quot;trailer-bulkhead&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/B6HtHeX5SL-300.jpeg&quot; width=&quot;1920&quot; height=&quot;1440&quot; srcset=&quot;https://dustin.lammiman.ca/img/B6HtHeX5SL-300.jpeg 300w, https://dustin.lammiman.ca/img/B6HtHeX5SL-960.jpeg 960w, https://dustin.lammiman.ca/img/B6HtHeX5SL-1920.jpeg 1920w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Trailer Floor Vinyl</title>
+		<link href="https://dustin.lammiman.ca/teardrop/floor3/"/>
+		<updated>2021-04-03T00:00:00Z</updated>
+		<id>https://dustin.lammiman.ca/teardrop/floor3/</id>
+		<content type="html">&lt;p&gt;Put down some vinyl flooring.&lt;/p&gt;
+&lt;img alt=&quot;Vinyl Flooring&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/2bUE2m92GT-400.jpeg&quot; width=&quot;1920&quot; height=&quot;1440&quot; srcset=&quot;https://dustin.lammiman.ca/img/2bUE2m92GT-400.jpeg 400w, https://dustin.lammiman.ca/img/2bUE2m92GT-800.jpeg 800w, https://dustin.lammiman.ca/img/2bUE2m92GT-1920.jpeg 1920w&quot; sizes=&quot;(max-width: 400px) 400w, 800w&quot; /&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Trailer Walls Framed</title>
+		<link href="https://dustin.lammiman.ca/teardrop/wall/"/>
+		<updated>2021-02-22T00:00:00Z</updated>
+		<id>https://dustin.lammiman.ca/teardrop/wall/</id>
+		<content type="html">&lt;p&gt;Walls are framed and insulated. Red pex tubing is for running wires. Still needs to be skinned with 1/8&amp;quot; baltic birch.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Trailer Profile</title>
+		<link href="https://dustin.lammiman.ca/teardrop/shape/"/>
+		<updated>2020-06-28T00:00:00Z</updated>
+		<id>https://dustin.lammiman.ca/teardrop/shape/</id>
+		<content type="html">&lt;p&gt;Drawing the shape for the profile of the trailer.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Trailer Floor Complete</title>
+		<link href="https://dustin.lammiman.ca/teardrop/floor2/"/>
+		<updated>2020-06-28T00:00:00Z</updated>
+		<id>https://dustin.lammiman.ca/teardrop/floor2/</id>
+		<content type="html">&lt;p&gt;Finished putting the floor on the trailer.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Trailer Floor</title>
+		<link href="https://dustin.lammiman.ca/teardrop/floor/"/>
+		<updated>2019-06-06T00:00:00Z</updated>
+		<id>https://dustin.lammiman.ca/teardrop/floor/</id>
+		<content type="html">&lt;p&gt;Starting to put the floor on the trailer.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Prepping the trailer</title>
+		<link href="https://dustin.lammiman.ca/teardrop/start/"/>
+		<updated>2019-05-30T00:00:00Z</updated>
+		<id>https://dustin.lammiman.ca/teardrop/start/</id>
+		<content type="html">&lt;p&gt;Getting started - the old trailer bed was cleared off. We sprayed the frame with black Rust-Oleum and painted the bottom of our new floor with a black paint to help seal it.&lt;/p&gt;
+&lt;div class=&quot;photo-gallery&quot;&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/TCs0U_as91-1920.jpeg&quot; data-lightbox=&quot;trailer-frame&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/TCs0U_as91-300.jpeg&quot; width=&quot;1920&quot; height=&quot;2560&quot; srcset=&quot;https://dustin.lammiman.ca/img/TCs0U_as91-300.jpeg 300w, https://dustin.lammiman.ca/img/TCs0U_as91-960.jpeg 960w, https://dustin.lammiman.ca/img/TCs0U_as91-1920.jpeg 1920w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/dJd_hlR2Lt-1920.jpeg&quot; data-lightbox=&quot;trailer-frame&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/dJd_hlR2Lt-300.jpeg&quot; width=&quot;1920&quot; height=&quot;2560&quot; srcset=&quot;https://dustin.lammiman.ca/img/dJd_hlR2Lt-300.jpeg 300w, https://dustin.lammiman.ca/img/dJd_hlR2Lt-960.jpeg 960w, https://dustin.lammiman.ca/img/dJd_hlR2Lt-1920.jpeg 1920w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/vqcTB_mKnp-1920.jpeg&quot; data-lightbox=&quot;trailer-frame&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/vqcTB_mKnp-300.jpeg&quot; width=&quot;1920&quot; height=&quot;2560&quot; srcset=&quot;https://dustin.lammiman.ca/img/vqcTB_mKnp-300.jpeg 300w, https://dustin.lammiman.ca/img/vqcTB_mKnp-960.jpeg 960w, https://dustin.lammiman.ca/img/vqcTB_mKnp-1920.jpeg 1920w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/XwD43oSBJ5-1920.jpeg&quot; data-lightbox=&quot;trailer-frame&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/XwD43oSBJ5-300.jpeg&quot; width=&quot;1920&quot; height=&quot;2560&quot; srcset=&quot;https://dustin.lammiman.ca/img/XwD43oSBJ5-300.jpeg 300w, https://dustin.lammiman.ca/img/XwD43oSBJ5-960.jpeg 960w, https://dustin.lammiman.ca/img/XwD43oSBJ5-1920.jpeg 1920w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/zrbbYsORS5-1920.jpeg&quot; data-lightbox=&quot;trailer-frame&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/zrbbYsORS5-300.jpeg&quot; width=&quot;1920&quot; height=&quot;1440&quot; srcset=&quot;https://dustin.lammiman.ca/img/zrbbYsORS5-300.jpeg 300w, https://dustin.lammiman.ca/img/zrbbYsORS5-960.jpeg 960w, https://dustin.lammiman.ca/img/zrbbYsORS5-1920.jpeg 1920w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Walls are Up!</title>
+		<link href="https://dustin.lammiman.ca/teardrop/walls-up/"/>
+		<updated>2019-03-27T00:00:00Z</updated>
+		<id>https://dustin.lammiman.ca/teardrop/walls-up/</id>
+		<content type="html">&lt;p&gt;Walls are up!&lt;/p&gt;
+&lt;div class=&quot;photo-gallery&quot;&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/0t08cvwKqX-1920.jpeg&quot; data-lightbox=&quot;trailer-walls&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/0t08cvwKqX-300.jpeg&quot; width=&quot;1920&quot; height=&quot;1440&quot; srcset=&quot;https://dustin.lammiman.ca/img/0t08cvwKqX-300.jpeg 300w, https://dustin.lammiman.ca/img/0t08cvwKqX-960.jpeg 960w, https://dustin.lammiman.ca/img/0t08cvwKqX-1920.jpeg 1920w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/uUSrMr7DRp-1920.jpeg&quot; data-lightbox=&quot;trailer-walls&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/uUSrMr7DRp-300.jpeg&quot; width=&quot;1920&quot; height=&quot;1440&quot; srcset=&quot;https://dustin.lammiman.ca/img/uUSrMr7DRp-300.jpeg 300w, https://dustin.lammiman.ca/img/uUSrMr7DRp-960.jpeg 960w, https://dustin.lammiman.ca/img/uUSrMr7DRp-1920.jpeg 1920w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Stanley Glacier</title>
+		<link href="https://dustin.lammiman.ca/hikes/stanley-glacier/"/>
+		<updated>2018-09-27T16:46:10Z</updated>
+		<id>https://dustin.lammiman.ca/hikes/stanley-glacier/</id>
+		<content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Length:&lt;/strong&gt; 8.4km (Round Trip)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Elevation Gain:&lt;/strong&gt; 365m&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Time:&lt;/strong&gt; 3-4 Hours&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trailhead:&lt;/strong&gt; Stanley Glacier Parking Lot on Highway 93 (&lt;a href=&quot;https://goo.gl/maps/T9Bo5pwqk7N2&quot;&gt;map&lt;/a&gt;). Note: the parking lot fills up fast. Go early, or you may need to park along the side of the highway.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Type:&lt;/strong&gt; Out &amp;amp; Back&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rating:&lt;/strong&gt; Moderate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Some hikes are all about the beautiful view at the destination, but with Stanley Glacier you enjoy beautiful and changing scenery for the duration of the hike. You will climb towards the toe of Stanley Glacier as you travel alongside a waterfall and the burned but beautiful remnants of a forest fire.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Ink Pots &amp; Johnston Canyon</title>
+		<link href="https://dustin.lammiman.ca/hikes/ink-pots-johnston-canyon/"/>
+		<updated>2018-09-06T02:05:06Z</updated>
+		<id>https://dustin.lammiman.ca/hikes/ink-pots-johnston-canyon/</id>
+		<content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Length:&lt;/strong&gt; 11.7km (Round Trip)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Elevation Gain:&lt;/strong&gt; 450m&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Time:&lt;/strong&gt; 4 Hours&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trailhead:&lt;/strong&gt; Johnston Canyon Parking Lot (&lt;a href=&quot;https://goo.gl/maps/RHWfHGDUg4K2&quot;&gt;map&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Type:&lt;/strong&gt; Out &amp;amp; Back&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rating:&lt;/strong&gt; Moderate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Johnston canyon is extermely popular. This isn&#39;t without reason as the canyon is beautiful. But if you keep hiking beyond the upper falls you will eventually reach the Ink Pots which are the real jewel of this hike. The portion of the trail after the upper falls is the most intense, with significantly more elevation gain. But you will also be glad to be away from the crowds for a while. After a long, steady incline you&#39;ll eventually head back down hill and reach the Ink Pots, which are spring fed pools of water with brilliant color in the midst of a mountain meadow. Be sure to heed the signs and don&#39;t disturb the pools. Pack a lunch and take some time to picnic while you enjoy the natural beauty of your destination.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>A Crazy Summer</title>
+		<link href="https://dustin.lammiman.ca/photos/a-crazy-summer/"/>
+		<updated>2014-07-20T22:45:33Z</updated>
+		<id>https://dustin.lammiman.ca/photos/a-crazy-summer/</id>
+		<content type="html">&lt;p&gt;I think its safe to that my summer is off to a crazy, but amazing, start. On June 27 I left for Estonia with 10 wonderful people (7 high school students and 3 leaders) to lead a three-week mission trip. We arrived early Sunday morning (just after midnight) and caught a few hours of sleep before heading to church and then camp. Camp ran Sunday-Friday and our team’s responsibilites included being cabin counselors and teaching a lesson on Thursday morning. This was an intereseting experience as the campers ranged in age from 8 up to over 18. Everything also had to be translated – twice – as most campers spoke either Russian or Estonian. We relied primarily on a mostly silent skit and an object lesson to make our point about being strong and courageous as we follow God’s law (&lt;a href=&quot;http://www.biblestudytools.com/joshua/passage.aspx?q=joshua%201:7-8&quot;&gt;Joshua 1:7-8&lt;/a&gt;). Throughout the week it was incredible to watch the way our team connected with the locals and excelled at all of their responsibilites, despite the fact that many of them had either very little camp experience or none at all.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;p&gt;The day after camp we took a day trip out to Rakvere, home of an authentic 14th century castle. Being in a castle that old was amazing in its own right, but there were also people dressed up in authentic costume, swords to play with, walls to climb, and a torture chamber to tour, making our afternoon a very complete and enjoyable experience. The next day after church we had the opportunity to see part of the Tallinn Song Festival. This event only happens once every five years and is an important part of Estonia’s identity and culture. Prior to our trip we had watched &lt;a href=&quot;http://www.singingrevolution.com/&quot;&gt;&lt;em&gt;The Singing Revolution&lt;/em&gt;&lt;/a&gt;, a documentary which outlines the important role this festival played in helping Estonia regain its independence from the Soviet Union. The event was absolutely packed with people and we couldn’t find anywhere to sit with a decent view, which meant that it wasn’t quite as enjoyable an experience as many of us had hoped, although I think we all agreed that we were glad we went because of its cultural significance.&lt;/p&gt;
+&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/IGEsx9T-ao-400.jpeg&quot; width=&quot;800&quot; height=&quot;321&quot; srcset=&quot;https://dustin.lammiman.ca/img/IGEsx9T-ao-400.jpeg 400w, https://dustin.lammiman.ca/img/IGEsx9T-ao-800.jpeg 800w&quot; sizes=&quot;(max-width: 400px) 400w, 800w&quot; /&gt;
+&lt;p&gt;Our second week in Estonia was spent in the capital city, Tallinn. We were part of what they called “City Camp,” which is similar to what we would call VBS. In the afternoons we would play games, sing songs, make crafts, and learn a Bible lesson with kids and teens up to about age 14. Our main involvment was in the evenings, when the teens and young adults would come. Our team was responsible for leading games, and the program also included some great singing times and discussions around our lessons, which continued on the theme from camp – Be Strong and Courageous. Many of the youth had been at camp the week before so we had the opportunity to continue to build relationships with them and talk with them about faith issues. There was a very real sense of community, and many of the youth would join us for supper and other activites long after the program had officially ended. On Thursday night one of the students from our church was baptized in the Baltic Sea – a very exciting way to top off a great week. Three Jr. High students from our church had also been baptized back in Calgary earlier in the week and many of us were having deep conversations about God with some of the Estonian teens. It was one of those moments where it becomes easier than normal to see how God is working in our world.&lt;/p&gt;
+&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/VPp_3h3Aqx-400.jpeg&quot; width=&quot;1920&quot; height=&quot;892&quot; srcset=&quot;https://dustin.lammiman.ca/img/VPp_3h3Aqx-400.jpeg 400w, https://dustin.lammiman.ca/img/VPp_3h3Aqx-800.jpeg 800w, https://dustin.lammiman.ca/img/VPp_3h3Aqx-1920.jpeg 1920w&quot; sizes=&quot;(max-width: 400px) 400w, 800w&quot; /&gt;
+&lt;p&gt;On July 12 we returned to Calgary amidst many difficult goodbyes. It was hard to part with the people we had met in Estonia, as well as the other members of our team who had been our constant companions for the past two weeks. A long and tiring flight back to Calgary did not mean rest, however, as we arrived back in Calgary at 8pm on Saturday and by 1pm on Sunday I was back on the road headed to Pine Lake for a week at Jr. High Camp. Eight students from my church joined about 50 other campers for a fantastic week. It was hot, and the lake was closed due to blue-green algae, but water fights and slip n slides allowed us to cope as we built relationships and talked about what it means to be a follower, not just a fan, of Jesus. I always love camp, but this week was especially significant for me as it was my first time being at camp as a youth pastor. It was good to know that the conversations and experiences I shared with my youth kids wouldn’t have to be put on hold until next summer.&lt;/p&gt;
+&lt;p&gt;This blog post is drawing to an end, but my busy schedule is not. Next week our church is hosting a VBS where we are expecting over 100 kids. It will be another tiring week I’m sure, but also another opportunity for God to shine his light.&lt;/p&gt;
+&lt;h2 id=&quot;rakvere&quot; tabindex=&quot;-1&quot;&gt;Rakvere &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/photos/a-crazy-summer/#rakvere&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;div class=&quot;photo-gallery&quot;&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/4yalobJwWE-960.jpeg&quot; data-lightbox=&quot;rakvere&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/4yalobJwWE-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/4yalobJwWE-300.jpeg 300w, https://dustin.lammiman.ca/img/4yalobJwWE-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/zxbTEMykkx-960.jpeg&quot; data-lightbox=&quot;rakvere&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/zxbTEMykkx-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/zxbTEMykkx-300.jpeg 300w, https://dustin.lammiman.ca/img/zxbTEMykkx-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/JaJfhrW8Im-960.jpeg&quot; data-lightbox=&quot;rakvere&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/JaJfhrW8Im-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/JaJfhrW8Im-300.jpeg 300w, https://dustin.lammiman.ca/img/JaJfhrW8Im-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/YBLUEUjZFU-960.jpeg&quot; data-lightbox=&quot;rakvere&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/YBLUEUjZFU-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/YBLUEUjZFU-300.jpeg 300w, https://dustin.lammiman.ca/img/YBLUEUjZFU-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/hcabK4oJFO-960.jpeg&quot; data-lightbox=&quot;rakvere&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/hcabK4oJFO-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/hcabK4oJFO-300.jpeg 300w, https://dustin.lammiman.ca/img/hcabK4oJFO-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/1HpYcq11mk-300.jpeg&quot; data-lightbox=&quot;rakvere&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/1HpYcq11mk-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/zVP7KwdZcU-960.jpeg&quot; data-lightbox=&quot;rakvere&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/zVP7KwdZcU-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/zVP7KwdZcU-300.jpeg 300w, https://dustin.lammiman.ca/img/zVP7KwdZcU-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/oa-lqRV43p-960.jpeg&quot; data-lightbox=&quot;rakvere&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/oa-lqRV43p-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/oa-lqRV43p-300.jpeg 300w, https://dustin.lammiman.ca/img/oa-lqRV43p-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/fiXi0K5YXy-960.jpeg&quot; data-lightbox=&quot;rakvere&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/fiXi0K5YXy-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/fiXi0K5YXy-300.jpeg 300w, https://dustin.lammiman.ca/img/fiXi0K5YXy-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/HpQEASqe2X-960.jpeg&quot; data-lightbox=&quot;rakvere&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/HpQEASqe2X-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/HpQEASqe2X-300.jpeg 300w, https://dustin.lammiman.ca/img/HpQEASqe2X-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/j9VkLxP2D--300.jpeg&quot; data-lightbox=&quot;rakvere&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/j9VkLxP2D--300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/h4o20UJ1dW-960.jpeg&quot; data-lightbox=&quot;rakvere&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/h4o20UJ1dW-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/h4o20UJ1dW-300.jpeg 300w, https://dustin.lammiman.ca/img/h4o20UJ1dW-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/3dZVkNCyeE-300.jpeg&quot; data-lightbox=&quot;rakvere&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/3dZVkNCyeE-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/cV-8Hv1BKy-960.jpeg&quot; data-lightbox=&quot;rakvere&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/cV-8Hv1BKy-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/cV-8Hv1BKy-300.jpeg 300w, https://dustin.lammiman.ca/img/cV-8Hv1BKy-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/M1FLRH-145-300.jpeg&quot; data-lightbox=&quot;rakvere&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/M1FLRH-145-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/Nny3rPxgq9-300.jpeg&quot; data-lightbox=&quot;rakvere&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/Nny3rPxgq9-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/ePgAbC4W02-960.jpeg&quot; data-lightbox=&quot;rakvere&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/ePgAbC4W02-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/ePgAbC4W02-300.jpeg 300w, https://dustin.lammiman.ca/img/ePgAbC4W02-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/K9THTlYacr-960.jpeg&quot; data-lightbox=&quot;rakvere&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/K9THTlYacr-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/K9THTlYacr-300.jpeg 300w, https://dustin.lammiman.ca/img/K9THTlYacr-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 id=&quot;tallinn-song-festival&quot; tabindex=&quot;-1&quot;&gt;Tallinn Song Festival &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/photos/a-crazy-summer/#tallinn-song-festival&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;div class=&quot;photo-gallery&quot;&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/X5V3fZA6wZ-960.jpeg&quot; data-lightbox=&quot;song-festival&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/X5V3fZA6wZ-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/X5V3fZA6wZ-300.jpeg 300w, https://dustin.lammiman.ca/img/X5V3fZA6wZ-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/fLlCzc0daK-960.jpeg&quot; data-lightbox=&quot;song-festival&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/fLlCzc0daK-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/fLlCzc0daK-300.jpeg 300w, https://dustin.lammiman.ca/img/fLlCzc0daK-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/O5pZzk_DKI-960.jpeg&quot; data-lightbox=&quot;song-festival&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/O5pZzk_DKI-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/O5pZzk_DKI-300.jpeg 300w, https://dustin.lammiman.ca/img/O5pZzk_DKI-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/knuQ8fJI5B-960.jpeg&quot; data-lightbox=&quot;song-festival&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/knuQ8fJI5B-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/knuQ8fJI5B-300.jpeg 300w, https://dustin.lammiman.ca/img/knuQ8fJI5B-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/4ha3wdFG5V-960.jpeg&quot; data-lightbox=&quot;song-festival&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/4ha3wdFG5V-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/4ha3wdFG5V-300.jpeg 300w, https://dustin.lammiman.ca/img/4ha3wdFG5V-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 id=&quot;tallinn-old-town&quot; tabindex=&quot;-1&quot;&gt;Tallinn Old Town &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/photos/a-crazy-summer/#tallinn-old-town&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;div class=&quot;photo-gallery&quot;&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/-D_TDjJuEl-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/-D_TDjJuEl-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/-D_TDjJuEl-300.jpeg 300w, https://dustin.lammiman.ca/img/-D_TDjJuEl-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/kXoc6x1_U4-300.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/kXoc6x1_U4-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/8e8wm0LZsW-300.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/8e8wm0LZsW-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/WoOmHpIA2j-300.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/WoOmHpIA2j-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/8_YLIYtszL-300.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/8_YLIYtszL-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/qANmi-2M_P-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/qANmi-2M_P-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/qANmi-2M_P-300.jpeg 300w, https://dustin.lammiman.ca/img/qANmi-2M_P-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/jqGB65AMDl-300.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/jqGB65AMDl-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/Yda_K9CFXF-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/Yda_K9CFXF-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/Yda_K9CFXF-300.jpeg 300w, https://dustin.lammiman.ca/img/Yda_K9CFXF-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/pYtqZVT9dY-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/pYtqZVT9dY-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/pYtqZVT9dY-300.jpeg 300w, https://dustin.lammiman.ca/img/pYtqZVT9dY-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/-FRqub_ihE-300.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/-FRqub_ihE-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/YzqeIMDyGt-300.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/YzqeIMDyGt-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/tUZLW_I036-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/tUZLW_I036-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/tUZLW_I036-300.jpeg 300w, https://dustin.lammiman.ca/img/tUZLW_I036-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/imgVbPuxN4-300.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/imgVbPuxN4-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/JObyIaAJJP-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/JObyIaAJJP-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/JObyIaAJJP-300.jpeg 300w, https://dustin.lammiman.ca/img/JObyIaAJJP-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/sXnNupWWYV-300.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/sXnNupWWYV-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/lDFaOsgKTp-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/lDFaOsgKTp-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/lDFaOsgKTp-300.jpeg 300w, https://dustin.lammiman.ca/img/lDFaOsgKTp-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/gZVOwXw06H-300.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/gZVOwXw06H-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/pYUsJE1Dtf-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/pYUsJE1Dtf-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/pYUsJE1Dtf-300.jpeg 300w, https://dustin.lammiman.ca/img/pYUsJE1Dtf-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/Yj7IPogZnu-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/Yj7IPogZnu-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/Yj7IPogZnu-300.jpeg 300w, https://dustin.lammiman.ca/img/Yj7IPogZnu-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/mEdkkd56Kt-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/mEdkkd56Kt-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/mEdkkd56Kt-300.jpeg 300w, https://dustin.lammiman.ca/img/mEdkkd56Kt-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/o8eZcbXNZd-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/o8eZcbXNZd-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/o8eZcbXNZd-300.jpeg 300w, https://dustin.lammiman.ca/img/o8eZcbXNZd-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/r6LsB2LFC--960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/r6LsB2LFC--300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/r6LsB2LFC--300.jpeg 300w, https://dustin.lammiman.ca/img/r6LsB2LFC--960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/w61qf3w7le-300.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/w61qf3w7le-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/EI1vCMt_NJ-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/EI1vCMt_NJ-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/EI1vCMt_NJ-300.jpeg 300w, https://dustin.lammiman.ca/img/EI1vCMt_NJ-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/urKOhXs3ct-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/urKOhXs3ct-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/urKOhXs3ct-300.jpeg 300w, https://dustin.lammiman.ca/img/urKOhXs3ct-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/IAmeEL1Db_-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/IAmeEL1Db_-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/IAmeEL1Db_-300.jpeg 300w, https://dustin.lammiman.ca/img/IAmeEL1Db_-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/AxYicOIHgD-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/AxYicOIHgD-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/AxYicOIHgD-300.jpeg 300w, https://dustin.lammiman.ca/img/AxYicOIHgD-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/3Py_si3PQ3-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/3Py_si3PQ3-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/3Py_si3PQ3-300.jpeg 300w, https://dustin.lammiman.ca/img/3Py_si3PQ3-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/Zu6zKD3HjT-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/Zu6zKD3HjT-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/Zu6zKD3HjT-300.jpeg 300w, https://dustin.lammiman.ca/img/Zu6zKD3HjT-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/T2IicqM0Wf-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/T2IicqM0Wf-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/T2IicqM0Wf-300.jpeg 300w, https://dustin.lammiman.ca/img/T2IicqM0Wf-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/k3GEYvP2yE-300.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/k3GEYvP2yE-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/un4tSDtGFN-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/un4tSDtGFN-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/un4tSDtGFN-300.jpeg 300w, https://dustin.lammiman.ca/img/un4tSDtGFN-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/78i7Ki7I90-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/78i7Ki7I90-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/78i7Ki7I90-300.jpeg 300w, https://dustin.lammiman.ca/img/78i7Ki7I90-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/wlwk6_QQjM-300.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/wlwk6_QQjM-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/ipBrTAb--9-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/ipBrTAb--9-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/ipBrTAb--9-300.jpeg 300w, https://dustin.lammiman.ca/img/ipBrTAb--9-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/hQycndAEUx-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/hQycndAEUx-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/hQycndAEUx-300.jpeg 300w, https://dustin.lammiman.ca/img/hQycndAEUx-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/hEFI5BfrcQ-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/hEFI5BfrcQ-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/hEFI5BfrcQ-300.jpeg 300w, https://dustin.lammiman.ca/img/hEFI5BfrcQ-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/OOEyxro3kA-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/OOEyxro3kA-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/OOEyxro3kA-300.jpeg 300w, https://dustin.lammiman.ca/img/OOEyxro3kA-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/QrKXJXRhvM-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/QrKXJXRhvM-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/QrKXJXRhvM-300.jpeg 300w, https://dustin.lammiman.ca/img/QrKXJXRhvM-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/lHXc0i1YC7-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/lHXc0i1YC7-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/lHXc0i1YC7-300.jpeg 300w, https://dustin.lammiman.ca/img/lHXc0i1YC7-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/9N7JUukYlC-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/9N7JUukYlC-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/9N7JUukYlC-300.jpeg 300w, https://dustin.lammiman.ca/img/9N7JUukYlC-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/UV0XrbW0j6-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/UV0XrbW0j6-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/UV0XrbW0j6-300.jpeg 300w, https://dustin.lammiman.ca/img/UV0XrbW0j6-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/qmSgIbC5c0-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/qmSgIbC5c0-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/qmSgIbC5c0-300.jpeg 300w, https://dustin.lammiman.ca/img/qmSgIbC5c0-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/b9HFzfBo2i-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/b9HFzfBo2i-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/b9HFzfBo2i-300.jpeg 300w, https://dustin.lammiman.ca/img/b9HFzfBo2i-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/LrTy7BAbDD-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/LrTy7BAbDD-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/LrTy7BAbDD-300.jpeg 300w, https://dustin.lammiman.ca/img/LrTy7BAbDD-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/sL4ct8NO3M-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/sL4ct8NO3M-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/sL4ct8NO3M-300.jpeg 300w, https://dustin.lammiman.ca/img/sL4ct8NO3M-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/aW76jj_vvt-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/aW76jj_vvt-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/aW76jj_vvt-300.jpeg 300w, https://dustin.lammiman.ca/img/aW76jj_vvt-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/owiI2kes-f-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/owiI2kes-f-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/owiI2kes-f-300.jpeg 300w, https://dustin.lammiman.ca/img/owiI2kes-f-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/txaAOKA7tB-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/txaAOKA7tB-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/txaAOKA7tB-300.jpeg 300w, https://dustin.lammiman.ca/img/txaAOKA7tB-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/675Sitmsqf-960.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/675Sitmsqf-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/675Sitmsqf-300.jpeg 300w, https://dustin.lammiman.ca/img/675Sitmsqf-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/8vjPrbBh3V-300.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/8vjPrbBh3V-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/zli3OulNFG-300.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/zli3OulNFG-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/OyGhDJWjiX-300.jpeg&quot; data-lightbox=&quot;old-town&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/OyGhDJWjiX-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 id=&quot;the-baltic-sea-and-a-baptism&quot; tabindex=&quot;-1&quot;&gt;The Baltic Sea &amp;amp; a Baptism &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/photos/a-crazy-summer/#the-baltic-sea-and-a-baptism&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;div class=&quot;photo-gallery&quot;&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/EjsszELEDU-960.jpeg&quot; data-lightbox=&quot;baltic-baptism&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/EjsszELEDU-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/EjsszELEDU-300.jpeg 300w, https://dustin.lammiman.ca/img/EjsszELEDU-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/BGbnpPUC22-1920.jpeg&quot; data-lightbox=&quot;baltic-baptism&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/BGbnpPUC22-300.jpeg&quot; width=&quot;1920&quot; height=&quot;1440&quot; srcset=&quot;https://dustin.lammiman.ca/img/BGbnpPUC22-300.jpeg 300w, https://dustin.lammiman.ca/img/BGbnpPUC22-960.jpeg 960w, https://dustin.lammiman.ca/img/BGbnpPUC22-1920.jpeg 1920w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/NmwVOFXTav-960.jpeg&quot; data-lightbox=&quot;baltic-baptism&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/NmwVOFXTav-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/NmwVOFXTav-300.jpeg 300w, https://dustin.lammiman.ca/img/NmwVOFXTav-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/k9Bm3mJix--300.jpeg&quot; data-lightbox=&quot;baltic-baptism&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/k9Bm3mJix--300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;One last note – if you want to learn more about what we did on our trip, one of the students wrote a blog post every day about his experiences. These are part of a larger blog about a trip he is taking with his family, but the earliest posts give a well written summary of the trip from the point of view of a high school student. See &lt;a href=&quot;http://phloatingaround.wordpress.com/&quot;&gt;phloatingaround.wordpress.com&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>New Wheels</title>
+		<link href="https://dustin.lammiman.ca/photos/new-wheels/"/>
+		<updated>2013-01-20T00:31:44Z</updated>
+		<id>https://dustin.lammiman.ca/photos/new-wheels/</id>
+		<content type="html">&lt;p&gt;On Wednesday I picked up a new (used) car. 2001 Buick Century.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/ZPDU9P2Pow-400.jpeg&quot; width=&quot;800&quot; height=&quot;600&quot; srcset=&quot;https://dustin.lammiman.ca/img/ZPDU9P2Pow-400.jpeg 400w, https://dustin.lammiman.ca/img/ZPDU9P2Pow-800.jpeg 800w&quot; sizes=&quot;(max-width: 400px) 400w, 800w&quot; /&gt;&lt;!--more--&gt;&lt;/p&gt;
+&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/_rlxmLq091-400.jpeg&quot; width=&quot;800&quot; height=&quot;600&quot; srcset=&quot;https://dustin.lammiman.ca/img/_rlxmLq091-400.jpeg 400w, https://dustin.lammiman.ca/img/_rlxmLq091-800.jpeg 800w&quot; sizes=&quot;(max-width: 400px) 400w, 800w&quot; /&gt;
+&lt;p&gt;It is a little bittersweet though, as my old car got taken away today.&lt;/p&gt;
+&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/78m4Btt169-400.jpeg&quot; width=&quot;400&quot; height=&quot;533&quot; /&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Reflections on 2012</title>
+		<link href="https://dustin.lammiman.ca/text/reflections-on-2012/"/>
+		<updated>2013-01-02T00:00:00Z</updated>
+		<id>https://dustin.lammiman.ca/text/reflections-on-2012/</id>
+		<content type="html">&lt;p&gt;Last night as I celebrated the beginning of a new year with friends and family we reflected on Proverbs 3:5-6:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Trust in the Lord with all your heart&lt;br /&gt;
+and lean not on your own understanding;&lt;br /&gt;
+in all your ways submit to him,&lt;br /&gt;
+and he will make your paths straight.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It is amazing to think back on the year and realize how many times God has made my paths straight.&lt;!--more--&gt; A year ago I was getting ready to drive back to Yellow Grass after a much needed Christmas break. I didn’t want to go. It wasn’t that my internship experience to that point had been horrible, but I was feeling very discouraged by a lack of progress. I was half way through my eight months in Saskatchewan and the two things I was responsible for, a kid’s club and Sunday evening Bible study, had just barely gotten started and were already in danger of dying due to a lack of attendance.&lt;/p&gt;
+&lt;p&gt;Looking back on my time in Yellow Grass now I see a much different picture. By the time I left in April the attendance at the kid’s club had swelled from ~10 kids a week to over 20 most weeks. More importantly, these kids were being taught the Bible and the gospel message and other adults in town became excited about what was happening. The Sunday evening Bible study never grew much, but the small group of Christians that met faithfully every week began to see its value as a time of encouragement where they could fellowship, pray together, and imagine what Kingdom work in Yellow Grass might look like in the future. So, while in January I didn’t want to go back to Yellow Grass, by April I wasn’t sure I wanted to leave. God had indeed made my path straight and was doing great things in small town Saskatchewan. I was very encouraged to go back for VBS in August and see how he continues to work.&lt;/p&gt;
+&lt;p&gt;2012 brought many other blessings to me for which I am very thankful. I graduated with my Bachelor’s degree in Theology from Alberta Bible College and I traveled Europe for a month with a good friend. Now I feel that the path in front of me is winding again. I’m not really sure what God has in store for me next but I’m itching to know. It is frustrating at times when I feel like I am just spinning my tires and going nowhere. But if I look back I can see that God has straightened the winding paths for me in the past, and so I can be confident that he will continue to do so in 2013 and beyond.&lt;/p&gt;
+&lt;p&gt;So, how did God make your paths straight in 2012?&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Yellow Grass VBS</title>
+		<link href="https://dustin.lammiman.ca/photos/yellow-grass-vbs/"/>
+		<updated>2012-11-29T05:01:04Z</updated>
+		<id>https://dustin.lammiman.ca/photos/yellow-grass-vbs/</id>
+		<content type="html">&lt;p&gt;These are pretty late, but I thought I should post them at some point. From my trip back to Yellow Grass in August for VBS.&lt;/p&gt;
+&lt;div class=&quot;photo-gallery&quot;&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/ydH_6NvQDh-960.jpeg&quot; data-lightbox=&quot;yellowgrass-vbs&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/ydH_6NvQDh-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/ydH_6NvQDh-300.jpeg 300w, https://dustin.lammiman.ca/img/ydH_6NvQDh-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/Xo04RBV0oU-960.jpeg&quot; data-lightbox=&quot;yellowgrass-vbs&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/Xo04RBV0oU-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/Xo04RBV0oU-300.jpeg 300w, https://dustin.lammiman.ca/img/Xo04RBV0oU-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/Tn2-o2Jy_k-960.jpeg&quot; data-lightbox=&quot;yellowgrass-vbs&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/Tn2-o2Jy_k-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/Tn2-o2Jy_k-300.jpeg 300w, https://dustin.lammiman.ca/img/Tn2-o2Jy_k-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/dNfycd4Ouy-960.jpeg&quot; data-lightbox=&quot;yellowgrass-vbs&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/dNfycd4Ouy-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/dNfycd4Ouy-300.jpeg 300w, https://dustin.lammiman.ca/img/dNfycd4Ouy-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/m0W4Z4ynGG-960.jpeg&quot; data-lightbox=&quot;yellowgrass-vbs&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/m0W4Z4ynGG-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/m0W4Z4ynGG-300.jpeg 300w, https://dustin.lammiman.ca/img/m0W4Z4ynGG-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/CnArl84Qya-960.jpeg&quot; data-lightbox=&quot;yellowgrass-vbs&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/CnArl84Qya-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/CnArl84Qya-300.jpeg 300w, https://dustin.lammiman.ca/img/CnArl84Qya-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Europe Trip 4 – Germany</title>
+		<link href="https://dustin.lammiman.ca/photos/germany/"/>
+		<updated>2012-06-22T18:05:49Z</updated>
+		<id>https://dustin.lammiman.ca/photos/germany/</id>
+		<content type="html">&lt;p&gt;The last set of photos – Germany.&lt;/p&gt;
+&lt;div class=&quot;photo-gallery&quot;&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/fzgflN9gWc-960.jpeg&quot; data-lightbox=&quot;germany&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/fzgflN9gWc-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/fzgflN9gWc-300.jpeg 300w, https://dustin.lammiman.ca/img/fzgflN9gWc-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/dB5T8Tdbf1-960.jpeg&quot; data-lightbox=&quot;germany&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/dB5T8Tdbf1-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/dB5T8Tdbf1-300.jpeg 300w, https://dustin.lammiman.ca/img/dB5T8Tdbf1-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/eZQWD7Tgqs-960.jpeg&quot; data-lightbox=&quot;germany&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/eZQWD7Tgqs-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/eZQWD7Tgqs-300.jpeg 300w, https://dustin.lammiman.ca/img/eZQWD7Tgqs-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/KPCZLGMsGq-960.jpeg&quot; data-lightbox=&quot;germany&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/KPCZLGMsGq-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/KPCZLGMsGq-300.jpeg 300w, https://dustin.lammiman.ca/img/KPCZLGMsGq-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/K2XuAJsrZM-960.jpeg&quot; data-lightbox=&quot;germany&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/K2XuAJsrZM-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/K2XuAJsrZM-300.jpeg 300w, https://dustin.lammiman.ca/img/K2XuAJsrZM-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/pTxakGHlbL-960.jpeg&quot; data-lightbox=&quot;germany&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/pTxakGHlbL-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/pTxakGHlbL-300.jpeg 300w, https://dustin.lammiman.ca/img/pTxakGHlbL-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/RLuVSiyRY3-960.jpeg&quot; data-lightbox=&quot;germany&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/RLuVSiyRY3-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/RLuVSiyRY3-300.jpeg 300w, https://dustin.lammiman.ca/img/RLuVSiyRY3-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/hNFxeWEvnJ-960.jpeg&quot; data-lightbox=&quot;germany&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/hNFxeWEvnJ-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/hNFxeWEvnJ-300.jpeg 300w, https://dustin.lammiman.ca/img/hNFxeWEvnJ-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/DPWxKhUsKm-960.jpeg&quot; data-lightbox=&quot;germany&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/DPWxKhUsKm-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/DPWxKhUsKm-300.jpeg 300w, https://dustin.lammiman.ca/img/DPWxKhUsKm-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/DqAo8-ckt1-300.jpeg&quot; data-lightbox=&quot;germany&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/DqAo8-ckt1-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/5kvYYV8VkJ-960.jpeg&quot; data-lightbox=&quot;germany&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/5kvYYV8VkJ-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/5kvYYV8VkJ-300.jpeg 300w, https://dustin.lammiman.ca/img/5kvYYV8VkJ-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/OTBxZc6pzO-960.jpeg&quot; data-lightbox=&quot;germany&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/OTBxZc6pzO-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/OTBxZc6pzO-300.jpeg 300w, https://dustin.lammiman.ca/img/OTBxZc6pzO-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Europe Trip 3 – Venice &amp; Switzerland</title>
+		<link href="https://dustin.lammiman.ca/photos/venice-switzerland/"/>
+		<updated>2012-06-21T02:02:14Z</updated>
+		<id>https://dustin.lammiman.ca/photos/venice-switzerland/</id>
+		<content type="html">&lt;p&gt;The first gallery is of Venice, the second of Switzerland (mainly Zürich). Next is &lt;a href=&quot;https://dustin.lammiman.ca/photos/germany/&quot; title=&quot;Europe Trip 4 – Germany&quot;&gt;Germany&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;venice&quot; tabindex=&quot;-1&quot;&gt;Venice &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/photos/venice-switzerland/#venice&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;photo-gallery&quot;&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/KuoBsSE_F2-960.jpeg&quot; data-lightbox=&quot;venice&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/KuoBsSE_F2-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/KuoBsSE_F2-300.jpeg 300w, https://dustin.lammiman.ca/img/KuoBsSE_F2-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/n0fBNqvNmz-960.jpeg&quot; data-lightbox=&quot;venice&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/n0fBNqvNmz-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/n0fBNqvNmz-300.jpeg 300w, https://dustin.lammiman.ca/img/n0fBNqvNmz-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/KOc49bIbIN-960.jpeg&quot; data-lightbox=&quot;venice&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/KOc49bIbIN-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/KOc49bIbIN-300.jpeg 300w, https://dustin.lammiman.ca/img/KOc49bIbIN-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/JFGM3s0Cbf-300.jpeg&quot; data-lightbox=&quot;venice&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/JFGM3s0Cbf-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/WghAwa9fEw-960.jpeg&quot; data-lightbox=&quot;venice&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/WghAwa9fEw-300.jpeg&quot; width=&quot;960&quot; height=&quot;715&quot; srcset=&quot;https://dustin.lammiman.ca/img/WghAwa9fEw-300.jpeg 300w, https://dustin.lammiman.ca/img/WghAwa9fEw-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/hqfPNMk3nn-960.jpeg&quot; data-lightbox=&quot;venice&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/hqfPNMk3nn-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/hqfPNMk3nn-300.jpeg 300w, https://dustin.lammiman.ca/img/hqfPNMk3nn-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/qyGefSw7RY-300.jpeg&quot; data-lightbox=&quot;venice&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/qyGefSw7RY-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/qyGefSw7RY-300.jpeg&quot; data-lightbox=&quot;venice&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/qyGefSw7RY-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/4MJqXIyR4A-960.jpeg&quot; data-lightbox=&quot;venice&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/4MJqXIyR4A-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/4MJqXIyR4A-300.jpeg 300w, https://dustin.lammiman.ca/img/4MJqXIyR4A-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/gQYndQLiqI-960.jpeg&quot; data-lightbox=&quot;venice&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/gQYndQLiqI-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/gQYndQLiqI-300.jpeg 300w, https://dustin.lammiman.ca/img/gQYndQLiqI-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/7R6ylYeU0y-300.jpeg&quot; data-lightbox=&quot;venice&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/7R6ylYeU0y-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/gtrSXoJ5a_-300.jpeg&quot; data-lightbox=&quot;venice&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/gtrSXoJ5a_-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 id=&quot;switzerland&quot; tabindex=&quot;-1&quot;&gt;Switzerland &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/photos/venice-switzerland/#switzerland&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;photo-gallery&quot;&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/1P8CJK8IiR-960.jpeg&quot; data-lightbox=&quot;switzerland&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/1P8CJK8IiR-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/1P8CJK8IiR-300.jpeg 300w, https://dustin.lammiman.ca/img/1P8CJK8IiR-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/Ev2hKnytgi-300.jpeg&quot; data-lightbox=&quot;switzerland&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/Ev2hKnytgi-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/wnb70D2vC2-300.jpeg&quot; data-lightbox=&quot;switzerland&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/wnb70D2vC2-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/5064eFz9dH-960.jpeg&quot; data-lightbox=&quot;switzerland&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/5064eFz9dH-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/5064eFz9dH-300.jpeg 300w, https://dustin.lammiman.ca/img/5064eFz9dH-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/ck9_hQoBvD-960.jpeg&quot; data-lightbox=&quot;switzerland&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/ck9_hQoBvD-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/ck9_hQoBvD-300.jpeg 300w, https://dustin.lammiman.ca/img/ck9_hQoBvD-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Europe Trip 2 – Rome</title>
+		<link href="https://dustin.lammiman.ca/photos/rome/"/>
+		<updated>2012-06-20T17:14:37Z</updated>
+		<id>https://dustin.lammiman.ca/photos/rome/</id>
+		<content type="html">&lt;p&gt;Rome! Next up: &lt;a href=&quot;https://dustin.lammiman.ca/photos/venice-switzerland/&quot; title=&quot;Europe Trip 3 – Venice &amp;amp; Switzerland&quot;&gt;Venice &amp;amp; Switzerland&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;photo-gallery&quot;&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/T6fWcVye9U-300.jpeg&quot; data-lightbox=&quot;rome&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/T6fWcVye9U-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/_ecs0DHEOL-300.jpeg&quot; data-lightbox=&quot;rome&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/_ecs0DHEOL-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/w9PeJn2JEY-960.jpeg&quot; data-lightbox=&quot;rome&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/w9PeJn2JEY-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/w9PeJn2JEY-300.jpeg 300w, https://dustin.lammiman.ca/img/w9PeJn2JEY-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/yzw6cNaOHN-960.jpeg&quot; data-lightbox=&quot;rome&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/yzw6cNaOHN-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/yzw6cNaOHN-300.jpeg 300w, https://dustin.lammiman.ca/img/yzw6cNaOHN-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/6t5fnDAKMG-960.jpeg&quot; data-lightbox=&quot;rome&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/6t5fnDAKMG-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/6t5fnDAKMG-300.jpeg 300w, https://dustin.lammiman.ca/img/6t5fnDAKMG-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/3rVC37Jpuc-300.jpeg&quot; data-lightbox=&quot;rome&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/3rVC37Jpuc-300.jpeg&quot; width=&quot;300&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/-M1RLrhtNE-960.jpeg&quot; data-lightbox=&quot;rome&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/-M1RLrhtNE-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/-M1RLrhtNE-300.jpeg 300w, https://dustin.lammiman.ca/img/-M1RLrhtNE-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/CZSrGZQqLv-960.jpeg&quot; data-lightbox=&quot;rome&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/CZSrGZQqLv-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/CZSrGZQqLv-300.jpeg 300w, https://dustin.lammiman.ca/img/CZSrGZQqLv-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/5rvTIn3N98-960.jpeg&quot; data-lightbox=&quot;rome&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/5rvTIn3N98-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/5rvTIn3N98-300.jpeg 300w, https://dustin.lammiman.ca/img/5rvTIn3N98-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/mUaX7LUGHL-960.jpeg&quot; data-lightbox=&quot;rome&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/mUaX7LUGHL-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/mUaX7LUGHL-300.jpeg 300w, https://dustin.lammiman.ca/img/mUaX7LUGHL-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/PCC8Qx1IBC-960.jpeg&quot; data-lightbox=&quot;rome&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/PCC8Qx1IBC-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/PCC8Qx1IBC-300.jpeg 300w, https://dustin.lammiman.ca/img/PCC8Qx1IBC-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/hnBb766lGl-960.jpeg&quot; data-lightbox=&quot;rome&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/hnBb766lGl-300.jpeg&quot; width=&quot;960&quot; height=&quot;719&quot; srcset=&quot;https://dustin.lammiman.ca/img/hnBb766lGl-300.jpeg 300w, https://dustin.lammiman.ca/img/hnBb766lGl-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/kpPEtGAUzE-960.jpeg&quot; data-lightbox=&quot;rome&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/kpPEtGAUzE-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/kpPEtGAUzE-300.jpeg 300w, https://dustin.lammiman.ca/img/kpPEtGAUzE-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/KLZk2TnGR8-960.jpeg&quot; data-lightbox=&quot;rome&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/KLZk2TnGR8-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/KLZk2TnGR8-300.jpeg 300w, https://dustin.lammiman.ca/img/KLZk2TnGR8-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/Z92aJzSrX_-960.jpeg&quot; data-lightbox=&quot;rome&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/Z92aJzSrX_-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/Z92aJzSrX_-300.jpeg 300w, https://dustin.lammiman.ca/img/Z92aJzSrX_-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/ElRF2IcrE8-960.jpeg&quot; data-lightbox=&quot;rome&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/ElRF2IcrE8-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/ElRF2IcrE8-300.jpeg 300w, https://dustin.lammiman.ca/img/ElRF2IcrE8-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/4CqI_Abxvg-960.jpeg&quot; data-lightbox=&quot;rome&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/4CqI_Abxvg-300.jpeg&quot; width=&quot;960&quot; height=&quot;540&quot; srcset=&quot;https://dustin.lammiman.ca/img/4CqI_Abxvg-300.jpeg 300w, https://dustin.lammiman.ca/img/4CqI_Abxvg-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Europe Trip 1 – Poland</title>
+		<link href="https://dustin.lammiman.ca/photos/poland/"/>
+		<updated>2012-06-20T03:44:05Z</updated>
+		<id>https://dustin.lammiman.ca/photos/poland/</id>
+		<content type="html">&lt;p&gt;Photos from Poland. The first gallery is Krakow and the Wieliczka salt mine. The second album is Auschwitz and Birkenau. Next up, &lt;a href=&quot;https://dustin.lammiman.ca/photos/rome/&quot; title=&quot;Europe Trip 2 – Rome&quot;&gt;Rome&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;krakow-and-wieliczka&quot; tabindex=&quot;-1&quot;&gt;Krakow and Wieliczka &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/photos/poland/#krakow-and-wieliczka&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;photo-gallery&quot;&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/jREjuzFDFl-960.jpeg&quot; data-lightbox=&quot;krakow&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/jREjuzFDFl-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/jREjuzFDFl-300.jpeg 300w, https://dustin.lammiman.ca/img/jREjuzFDFl-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/6Rr6LUpDrh-960.jpeg&quot; data-lightbox=&quot;krakow&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/6Rr6LUpDrh-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/6Rr6LUpDrh-300.jpeg 300w, https://dustin.lammiman.ca/img/6Rr6LUpDrh-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/1FXo_vhy7e-960.jpeg&quot; data-lightbox=&quot;krakow&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/1FXo_vhy7e-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/1FXo_vhy7e-300.jpeg 300w, https://dustin.lammiman.ca/img/1FXo_vhy7e-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/C2hjQpPfFL-960.jpeg&quot; data-lightbox=&quot;krakow&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/C2hjQpPfFL-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/C2hjQpPfFL-300.jpeg 300w, https://dustin.lammiman.ca/img/C2hjQpPfFL-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/Fm4jnpeUU8-960.jpeg&quot; data-lightbox=&quot;krakow&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/Fm4jnpeUU8-300.jpeg&quot; width=&quot;960&quot; height=&quot;709&quot; srcset=&quot;https://dustin.lammiman.ca/img/Fm4jnpeUU8-300.jpeg 300w, https://dustin.lammiman.ca/img/Fm4jnpeUU8-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/RO_yhd2Vad-960.jpeg&quot; data-lightbox=&quot;krakow&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/RO_yhd2Vad-300.jpeg&quot; width=&quot;960&quot; height=&quot;719&quot; srcset=&quot;https://dustin.lammiman.ca/img/RO_yhd2Vad-300.jpeg 300w, https://dustin.lammiman.ca/img/RO_yhd2Vad-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/FRe3rPH7hg-960.jpeg&quot; data-lightbox=&quot;krakow&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/FRe3rPH7hg-300.jpeg&quot; width=&quot;960&quot; height=&quot;539&quot; srcset=&quot;https://dustin.lammiman.ca/img/FRe3rPH7hg-300.jpeg 300w, https://dustin.lammiman.ca/img/FRe3rPH7hg-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/ZjlvLQBORH-960.jpeg&quot; data-lightbox=&quot;krakow&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/ZjlvLQBORH-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/ZjlvLQBORH-300.jpeg 300w, https://dustin.lammiman.ca/img/ZjlvLQBORH-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 id=&quot;auschwitz-and-birkenau&quot; tabindex=&quot;-1&quot;&gt;Auschwitz and Birkenau &lt;a class=&quot;direct-link&quot; href=&quot;https://dustin.lammiman.ca/photos/poland/#auschwitz-and-birkenau&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;photo-gallery&quot;&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/vi-vXuO5Ee-960.jpeg&quot; data-lightbox=&quot;auschwitz&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/vi-vXuO5Ee-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/vi-vXuO5Ee-300.jpeg 300w, https://dustin.lammiman.ca/img/vi-vXuO5Ee-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/iThubezlsC-960.jpeg&quot; data-lightbox=&quot;auschwitz&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/iThubezlsC-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/iThubezlsC-300.jpeg 300w, https://dustin.lammiman.ca/img/iThubezlsC-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/ugu6Y_ko6n-960.jpeg&quot; data-lightbox=&quot;auschwitz&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/ugu6Y_ko6n-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/ugu6Y_ko6n-300.jpeg 300w, https://dustin.lammiman.ca/img/ugu6Y_ko6n-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/ugu6Y_ko6n-960.jpeg&quot; data-lightbox=&quot;auschwitz&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/ugu6Y_ko6n-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/ugu6Y_ko6n-300.jpeg 300w, https://dustin.lammiman.ca/img/ugu6Y_ko6n-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/y0nggCW5HB-960.jpeg&quot; data-lightbox=&quot;auschwitz&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/y0nggCW5HB-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/y0nggCW5HB-300.jpeg 300w, https://dustin.lammiman.ca/img/y0nggCW5HB-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/sUwzylDSqd-960.jpeg&quot; data-lightbox=&quot;auschwitz&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/sUwzylDSqd-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/sUwzylDSqd-300.jpeg 300w, https://dustin.lammiman.ca/img/sUwzylDSqd-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/ajFUTdAteJ-960.jpeg&quot; data-lightbox=&quot;auschwitz&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/ajFUTdAteJ-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/ajFUTdAteJ-300.jpeg 300w, https://dustin.lammiman.ca/img/ajFUTdAteJ-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://dustin.lammiman.ca/img/xsXcoU66K4-960.jpeg&quot; data-lightbox=&quot;auschwitz&quot;&gt;&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/xsXcoU66K4-300.jpeg&quot; width=&quot;960&quot; height=&quot;720&quot; srcset=&quot;https://dustin.lammiman.ca/img/xsXcoU66K4-300.jpeg 300w, https://dustin.lammiman.ca/img/xsXcoU66K4-960.jpeg 960w&quot; sizes=&quot;300w&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>When Life Gives You Snow Make Snowmen</title>
+		<link href="https://dustin.lammiman.ca/photos/when-life-gives-you-snow-make-snowmen/"/>
+		<updated>2012-04-07T19:33:29Z</updated>
+		<id>https://dustin.lammiman.ca/photos/when-life-gives-you-snow-make-snowmen/</id>
+		<content type="html">&lt;p&gt;When life gives you lemons, make lemonade. When life gives you snow, make snowmen.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Rainy Spring Day in Yellow Grass</title>
+		<link href="https://dustin.lammiman.ca/photos/rainy-spring-day-in-yellow-grass/"/>
+		<updated>2012-04-06T22:24:26Z</updated>
+		<id>https://dustin.lammiman.ca/photos/rainy-spring-day-in-yellow-grass/</id>
+		<content type="html">&lt;p&gt;It has been raining all day, leading to the first green grass of the year. The vibrant green contrasts nicely with the yellow.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>This is Yellow Grass</title>
+		<link href="https://dustin.lammiman.ca/photos/this-is-yellow-grass/"/>
+		<updated>2012-03-22T10:10:29Z</updated>
+		<id>https://dustin.lammiman.ca/photos/this-is-yellow-grass/</id>
+		<content type="html">&lt;p&gt;Yellow Grass, Saskatchewan.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Dustin the Chef?</title>
+		<link href="https://dustin.lammiman.ca/text/dustin-the-chef/"/>
+		<updated>2012-02-04T22:27:14Z</updated>
+		<id>https://dustin.lammiman.ca/text/dustin-the-chef/</id>
+		<content type="html">&lt;p&gt;Many of you know that I have been working for three hours a day, during the lunch rush, at the cafe in the Yellow Grass skating rink. On Monday the lady who runs the cafe (Donna) is heading out of town for four days to take a well deserved break. I offered to cover for her, so that means four days of getting up at 5AM to make coffee and cook eggs and toast for the people of Yellow Grass. Many of the people who come in to the cafe in the morning do not come for lunch, so this is an opportunity for me to connect with more people. Business at the cafe has been fairly slow during the winter months, but this last week things really started to pick up again, so I would greatly appreciate your prayers during the next few days. I do have someone coming in to help during the lunch hour, which is usually the busiest time of the day, but neither of us has the skill and experience of Donna. You could also pray that I will be able to connect with the people who come in to eat, and that I will be able to explain my purpose in coming to Yellow Grass.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>First Gathering: Complete</title>
+		<link href="https://dustin.lammiman.ca/text/first-gathering-complete/"/>
+		<updated>2011-12-06T01:07:59Z</updated>
+		<id>https://dustin.lammiman.ca/text/first-gathering-complete/</id>
+		<content type="html">&lt;p&gt;We had our first fellowship gathering yesterday. Besides myself, 21 people came out. The service included singing, a short devotional, communion, a prayer time, and fellowship over coffee and rice krispie squares afterwards. Praise God that it was a success! Thank you all for your continued prayers.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>December 4</title>
+		<link href="https://dustin.lammiman.ca/text/december-4/"/>
+		<updated>2011-11-29T04:38:45Z</updated>
+		<id>https://dustin.lammiman.ca/text/december-4/</id>
+		<content type="html">&lt;p&gt;I’ve been meaning to post this for a while now… December 4 (this Sunday already!) is the launch date for our Sunday evening gathering. We hope that this will be a place for worship, discipleship, and fellowship which will bring Christians together to make a positive impact in the community. Prayers are appreciated!&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Remember</title>
+		<link href="https://dustin.lammiman.ca/photos/remember/"/>
+		<updated>2011-11-11T18:11:06Z</updated>
+		<id>https://dustin.lammiman.ca/photos/remember/</id>
+		<content type="html">&lt;p&gt;Since today is Remembrance Day, I thought I would post a few pictures of my trip to Belgium where I visited “Flanders Fields”. Ypress, Belgium was the site of the famous battle of Passchendaele.&lt;/p&gt;
+&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/T1507JsUmN-400.jpeg&quot; width=&quot;400&quot; height=&quot;265&quot; /&gt;
+&lt;p&gt;One of the many World War I cemeteries in the area. Many of these graves are of Canadian soldiers.&lt;/p&gt;
+&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/Oa0wZezHt9-400.jpeg&quot; width=&quot;400&quot; height=&quot;601&quot; /&gt;
+&lt;p&gt;The tomb of an unknown Canadian soldier.&lt;/p&gt;
+&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/yYlKOrStCB-400.jpeg&quot; width=&quot;400&quot; height=&quot;300&quot; /&gt;
+&lt;p&gt;A sobering reminder of how terrible the war was. This plaque was part of a Canadian war memorial about 10 minutes away from the graveyard pictured above.&lt;/p&gt;
+&lt;img alt=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://dustin.lammiman.ca/img/uw25IDXiHM-400.jpeg&quot; width=&quot;400&quot; height=&quot;601&quot; /&gt;
+&lt;p&gt;This famous poem was written by John McCrae near Ypres, Belgium.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Success!</title>
+		<link href="https://dustin.lammiman.ca/text/success/"/>
+		<updated>2011-10-21T00:04:00Z</updated>
+		<id>https://dustin.lammiman.ca/text/success/</id>
+		<content type="html">&lt;p&gt;Our first kid’s program is complete and was a success. We had a dozen kids out, which was good because we ran into a few problems letting people know that we were starting today. Now that the word is out and the kids will be telling their friends, we are optimistic that we will have a larger group next week. Thanks to everyone who was praying today!&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>We have liftoff!</title>
+		<link href="https://dustin.lammiman.ca/text/we-have-liftoff/"/>
+		<updated>2011-10-15T21:37:50Z</updated>
+		<id>https://dustin.lammiman.ca/text/we-have-liftoff/</id>
+		<content type="html">&lt;p&gt;We finally have a start date for our after-school kid’s program. This Thursday, October 20, at 3:30 is our kick-off!&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Dog River</title>
+		<link href="https://dustin.lammiman.ca/photos/dog-river/"/>
+		<updated>2011-10-08T10:32:03Z</updated>
+		<id>https://dustin.lammiman.ca/photos/dog-river/</id>
+		<content type="html">&lt;p&gt;Guess what town I drove through on my way home for Thanksgiving?&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Saskatchewan, Naturally</title>
+		<link href="https://dustin.lammiman.ca/photos/saskatchewan-naturally/"/>
+		<updated>2011-10-05T10:10:10Z</updated>
+		<id>https://dustin.lammiman.ca/photos/saskatchewan-naturally/</id>
+		<content type="html">&lt;p&gt;With this photo begins a new chapter of my life.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>A Vision For Yellow Grass</title>
+		<link href="https://dustin.lammiman.ca/text/a-vision-for-yellow-grass/"/>
+		<updated>2011-08-18T01:10:02Z</updated>
+		<id>https://dustin.lammiman.ca/text/a-vision-for-yellow-grass/</id>
+		<content type="html">&lt;p&gt;Two summers ago I had the privilege of visiting the town of Yellow Grass as part of Alberta Bible College’s Youth Alive in Christ program. Along with three other students and a few mission minded  volunteers from the local community, we ran a successful week-long VBS with a healthy number of children attending. This past fall I was heart broken to hear that there is currently no church presence in Yellow Grass that is actively focusing on reaching the healthy harvest of young families living there. “The harvest is plentiful but the workers are few. Ask the Lord of the harvest, therefore, to send out workers into his harvest field” (Matthew 9:37-38). At the same time, God was putting similar convictions in the hearts and minds of several others and so began the journey of re-imagining the Kingdom work in Yellow Grass, Saskatchewan.&lt;/p&gt;
+&lt;p&gt;The primary goal of our ministry is to advance God’s Kingdom in the town of Yellow Grass. Although the specifics of this Kingdom work are still not entirely clear, we are currently focusing on two primary means of doing this: through ministry within the community to children and/or youth, and through a weekly gathering of Christians with the purpose of fellowship, encouragement, and mutual support between brothers and sisters in Christ who share the common goal of spreading God’s Kingdom.&lt;/p&gt;
+&lt;p&gt;One of my primary concerns is to ensure that the work I do is part of a bigger picture. I do not want to come to Yellow Grass and do ministry for eight months without leaving behind a positive change. For this to happen the people of Yellow Grass must take ownership of the Kingdom work which will take place in their own community. As such, I see an intimate connection between the two different aspects of ministry mentioned above. The people involved in a weekly service will also be expected to be advancing God’s Kingdom throughout the rest of the week. This may or may not happen through the youth and children’s ministry mentioned earlier. What is important is that the specific direction of ministry and Kingdom work in Yellow Grass flows out of the passions and gifts of the people who are living in the community and committed to it long term. Above all let us commit this work to our God “who is able to do far more abundantly than all that we ask or think” (Eph 3:20).&lt;/p&gt;
+</content>
+	</entry>
+</feed>
