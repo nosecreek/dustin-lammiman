@@ -8,6 +8,7 @@ featuredImage: /images/candycane.jpg
 ## Candy Cane Ice Cream
 
 ### Ingredients
+
 - 1/2 Cup Granulated Sugar
 - 2 Tbsp Skim Milk Powder
 - 1/4 Tsp Xanthan Gum
@@ -21,9 +22,10 @@ featuredImage: /images/candycane.jpg
 - 3 Regular Size Candy Canes
 
 ### Instructions
+
 1. Use a food processor to break the candy canes into small pieces.
 2. In a bowl whisk together sugar, milk powder, and xanthan gum.
-2. In a pot add milk and corn syrup.
+3. In a pot add milk and corn syrup.
 4. Whisk dry ingredients into the pot of liquid ingredients. Be sure to mix well.
 5. Heat ingredients for ~5 minutes on medium heat, stirring well, until sugar is disolved.
 6. Remove from heat and add remaining cream and allow mixture to cool for a few minutes.
@@ -34,12 +36,12 @@ featuredImage: /images/candycane.jpg
 11. Add candy cane pieces to the ice cream. Once it is well mixed, move your ice cream into an airtight container. Layer half the ice cream, then chocolate sauce, then the rest of the ice cream.
 12. Freeze the ice cream for 4+ hours before serving.
 
-
 ## Chocolate Sauce
 
-* Chocolate sauce is optional. It's delicious without it too! *
+_Chocolate sauce is optional. It's delicious without it too!_
 
 ### Ingredients
+
 - 1/4 Cup Cocoa Powder
 - 1/4 Cup Sugar
 - 1/4 Cup Water
@@ -47,6 +49,7 @@ featuredImage: /images/candycane.jpg
 - 1/2 Tsp Vanilla
 
 ### Instructions
+
 1. Whisk together cocoa and sugar in a saucepan.
 2. Add water and salt and bring to a boil over medium-high heat, continuing to whisk the mixture.
 3. Reduce to a simmer and continue to whisk for about 30 seconds.
