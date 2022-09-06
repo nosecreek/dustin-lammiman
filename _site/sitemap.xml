@@ -212,6 +212,26 @@
   </url>
   
   <url>
+    <loc>https://dustin.lammiman.ca/teardrop/hatch1/</loc>
+    <lastmod>2022-05-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/teardrop/fiberglass1/</loc>
+    <lastmod>2022-05-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/teardrop/fiberglass2/</loc>
+    <lastmod>2022-05-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/teardrop/fiberglass3/</loc>
+    <lastmod>2022-07-05</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dustin.lammiman.ca/posts/</loc>
     <lastmod>2022-07-12</lastmod>
   </url>
@@ -387,6 +407,11 @@
   </url>
   
   <url>
+    <loc>https://dustin.lammiman.ca/teardrop/painted/</loc>
+    <lastmod>2022-07-23</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dustin.lammiman.ca/css/_includes/lightbox2.css</loc>
     <lastmod>2022-07-26</lastmod>
   </url>
@@ -394,5 +419,15 @@
   <url>
     <loc>https://dustin.lammiman.ca/</loc>
     <lastmod>2022-07-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/teardrop/hatch2/</loc>
+    <lastmod>2022-08-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/teardrop/firstjourney/</loc>
+    <lastmod>2022-09-02</lastmod>
   </url>
 </urlset>

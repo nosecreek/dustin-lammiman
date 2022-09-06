@@ -10,6 +10,48 @@
     "url": "https://dustin.lammiman.ca/about-me/"
   },
   "items": [{
+      "id": "https://dustin.lammiman.ca/teardrop/firstjourney/",
+      "url": "https://dustin.lammiman.ca/teardrop/firstjourney/",
+      "title": "First Journey",
+      "content_html": "<p>All hooked up to the tow vehicle and ready for it's first camping trip! There are still a few things to finish, but it's road worthy and the camping season is almost over. We weren't sure how heavy it was going to be, but we took it out to the truck scales and it came up at just over 1,200lbs. Which means we can tow it with our existing vehicle! (It has a tow limit of 2,000lbs, and we weren't sure how close to that we were going to be)</p>\n<p>Oh, and did I mention we gave it a name? Introducing <em>The Marmot</em>!</p>\n",
+      "date_published": "2022-09-02T00:00:00Z"
+    },{
+      "id": "https://dustin.lammiman.ca/teardrop/hatch2/",
+      "url": "https://dustin.lammiman.ca/teardrop/hatch2/",
+      "title": "Galley Hatch Attached!",
+      "content_html": "<p>Attached the galley hatch to the main body of the trailer using a hurricane hinge. Then using <a href=\"https://www.tnttt.com/viewtopic.php?t=58263\">this calculator</a> to figure out what kind of gas springs we need to hold it up when it's opened.</p>\n",
+      "date_published": "2022-08-29T00:00:00Z"
+    },{
+      "id": "https://dustin.lammiman.ca/teardrop/painted/",
+      "url": "https://dustin.lammiman.ca/teardrop/painted/",
+      "title": "Poor Man&#39;s Fiberglass (Part 4)",
+      "content_html": "<p>We painted about six layers of paint to get to this stage. The first four layers were mostly &quot;oops&quot; paint (mistints, returns, etc.) that we got for cheap at hardware/paint stores. The final two layers were in our desired color. Used painter's tape to get the zigzag pattern on the side. If you look close the lines aren't very clean, so we may have to touch them up in the future.</p>\n",
+      "date_published": "2022-07-23T00:00:00Z"
+    },{
+      "id": "https://dustin.lammiman.ca/teardrop/fiberglass3/",
+      "url": "https://dustin.lammiman.ca/teardrop/fiberglass3/",
+      "title": "Poor Man&#39;s Fiberglass (Part 3)",
+      "content_html": "<p>Canvas is all attached, so we're almost ready to paint!</p>\n",
+      "date_published": "2022-07-05T00:00:00Z"
+    },{
+      "id": "https://dustin.lammiman.ca/teardrop/fiberglass2/",
+      "url": "https://dustin.lammiman.ca/teardrop/fiberglass2/",
+      "title": "Poor Man&#39;s Fiberglass (Part 2)",
+      "content_html": "<p>More canvas attached, and then trimmed to the proper size on one side.</p>\n",
+      "date_published": "2022-05-30T00:00:00Z"
+    },{
+      "id": "https://dustin.lammiman.ca/teardrop/fiberglass1/",
+      "url": "https://dustin.lammiman.ca/teardrop/fiberglass1/",
+      "title": "Poor Man&#39;s Fiberglass (Part 1)",
+      "content_html": "<p>The method we're using to weatherproof the outside of our trailer is called <em>poor man's fiberglass</em>. Essentially we glue large canvas to the trailer and then cover it with many (about six) layers of outdoor paint. Here we are attaching one of the canvas pieces. Before attaching we used an iron to minimize any wrinkles so we end up with a smooth finish.</p>\n<img alt=\"One piece of canvas attached\" loading=\"lazy\" decoding=\"async\" src=\"https://dustin.lammiman.ca/img/-XvCpEgmSU-400.jpeg\" width=\"1920\" height=\"1440\" srcset=\"https://dustin.lammiman.ca/img/-XvCpEgmSU-400.jpeg 400w, https://dustin.lammiman.ca/img/-XvCpEgmSU-800.jpeg 800w, https://dustin.lammiman.ca/img/-XvCpEgmSU-1920.jpeg 1920w\" sizes=\"(max-width: 400px) 400w, 800w\" />\n",
+      "date_published": "2022-05-30T00:00:00Z"
+    },{
+      "id": "https://dustin.lammiman.ca/teardrop/hatch1/",
+      "url": "https://dustin.lammiman.ca/teardrop/hatch1/",
+      "title": "Galley Hatch",
+      "content_html": "<p>Framing the hatch for the galley. Doing a dry-fit to make sure everything fits before we start to skin it, add wires and insulation, etc.</p>\n",
+      "date_published": "2022-05-20T00:00:00Z"
+    },{
       "id": "https://dustin.lammiman.ca/icecream/eggnong-coke/",
       "url": "https://dustin.lammiman.ca/icecream/eggnong-coke/",
       "title": "Eggnog &amp; Cola",
