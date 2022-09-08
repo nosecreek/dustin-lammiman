@@ -12,6 +12,29 @@
     <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
+    <script type="text/javascript">
+      let darkmode = false;
+
+      if (
+        (localStorage.getItem("darkmode") && localStorage.getItem("darkmode") === "dark") ||
+        (!localStorage.getItem("darkmode") && window.matchMedia('(prefers-color-scheme: dark)').matches)
+      ) {
+        darkmode = true;
+        document.documentElement.classList.add("dark");
+      }
+
+      function toggleDarkMode() {
+        if(darkmode) {
+          document.documentElement.classList.remove("dark");
+          localStorage.setItem("darkmode", "off");
+          darkmode = false;
+        } else {
+          document.documentElement.classList.add("dark");
+          localStorage.setItem("darkmode", "dark");
+          darkmode = true;
+        }
+      }
+    </script>
   </head>
   <body>
     <header>
@@ -22,6 +45,7 @@
       {%- for entry in collections.all | eleventyNavigation %}
         <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">/{{ entry.title }}</a></li>
       {%- endfor %}
+        <li class="dark-toggle nav-item"><a href="#" onClick="toggleDarkMode()"> </a></li>
       </ul>
     </header>
 
