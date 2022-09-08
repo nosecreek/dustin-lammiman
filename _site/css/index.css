@@ -364,6 +364,7 @@ body.lb-disable-scrolling {
 body {
   font-size: 20px;
   background: #f9f9f8;
+  transition-duration: 1s;
 }
 
 h1,
@@ -492,7 +493,7 @@ ul.nav li a:hover {
     display: block;
     width: 100%;
     padding: 0;
-    font-size: 0.9em;
+    font-size: 0.85em;
   }
   ul.nav li:first-child {
     padding: 0;
@@ -653,31 +654,42 @@ footer .icon {
   margin: 1em auto;
 }
 
-@media (prefers-color-scheme: dark) {
-  body {
-    background: #222;
-    color: #f9f9f8;
-  }
-  header h1 a, ul.nav li a, .post-tag {
-    color: #f9f9f8;
-  }
-  header h1 a:hover {
-    text-decoration: underline dashed #f9f9f8 0;
-  }
-  .photo-gallery a img, .postlist li.postlist-item, .post-tag {
-    border-color: #f9f9f8;
-  }
-  a, ul.nav li a:hover, .post-tag:hover {
-    color: #e6bc53;
-  }
-  a {
-    text-decoration: underline dashed #e6bc53 0;
-  }
-  .post-tag hover {
-    border-color: #e6bc53;
-  }
-  .github-icon {
-    filter: invert(1);
-  }
+.dark-toggle a {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.1' id='Capa_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='45.16px' height='45.16px' viewBox='0 0 45.16 45.16' style='enable-background:new 0 0 45.16 45.16;' xml:space='preserve' %3E%3Cg%3E%3Cg%3E%3Cpath d='M22.58,11.269c-6.237,0-11.311,5.075-11.311,11.312s5.074,11.312,11.311,11.312c6.236,0,11.311-5.074,11.311-11.312 S28.816,11.269,22.58,11.269z'/%3E%3Cg%3E%3Cg%3E%3Cpath d='M22.58,7.944c-1.219,0-2.207-0.988-2.207-2.206V2.207C20.373,0.988,21.361,0,22.58,0c1.219,0,2.207,0.988,2.207,2.207 v3.531C24.787,6.956,23.798,7.944,22.58,7.944z'/%3E%3C/g%3E%3Cg%3E%3Cpath d='M22.58,37.215c-1.219,0-2.207,0.988-2.207,2.207v3.53c0,1.22,0.988,2.208,2.207,2.208c1.219,0,2.207-0.988,2.207-2.208 v-3.53C24.787,38.203,23.798,37.215,22.58,37.215z'/%3E%3C/g%3E%3Cg%3E%3Cpath d='M32.928,12.231c-0.861-0.862-0.861-2.259,0-3.121l2.497-2.497c0.861-0.861,2.259-0.861,3.121,0 c0.862,0.862,0.862,2.26,0,3.121l-2.497,2.497C35.188,13.093,33.791,13.093,32.928,12.231z'/%3E%3C/g%3E%3Cg%3E%3Cpath d='M12.231,32.93c-0.862-0.863-2.259-0.863-3.121,0l-2.497,2.496c-0.861,0.861-0.862,2.26,0,3.121 c0.862,0.861,2.26,0.861,3.121,0l2.497-2.498C13.093,35.188,13.093,33.79,12.231,32.93z'/%3E%3C/g%3E%3Cg%3E%3Cpath d='M37.215,22.58c0-1.219,0.988-2.207,2.207-2.207h3.531c1.219,0,2.207,0.988,2.207,2.207c0,1.219-0.988,2.206-2.207,2.206 h-3.531C38.203,24.786,37.215,23.799,37.215,22.58z'/%3E%3C/g%3E%3Cg%3E%3Cpath d='M7.944,22.58c0-1.219-0.988-2.207-2.207-2.207h-3.53C0.988,20.373,0,21.361,0,22.58c0,1.219,0.988,2.206,2.207,2.206 h3.531C6.956,24.786,7.944,23.799,7.944,22.58z'/%3E%3C/g%3E%3Cg%3E%3Cpath d='M32.928,32.93c0.862-0.861,2.26-0.861,3.121,0l2.497,2.497c0.862,0.86,0.862,2.259,0,3.12s-2.259,0.861-3.121,0 l-2.497-2.497C32.066,35.188,32.066,33.791,32.928,32.93z'/%3E%3C/g%3E%3Cg%3E%3Cpath d='M12.231,12.231c0.862-0.862,0.862-2.259,0-3.121L9.734,6.614c-0.862-0.862-2.259-0.862-3.121,0 c-0.862,0.861-0.862,2.259,0,3.12l2.497,2.497C9.972,13.094,11.369,13.094,12.231,12.231z'/%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3Cg%3E%3C/g%3E%3C/svg%3E");
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: bottom;
+  background-size: cover;
+}
+
+html.dark body {
+  background: #222;
+  color: #f9f9f8;
+}
+html.dark header h1 a, html.dark ul.nav li a, html.dark .post-tag {
+  color: #f9f9f8;
+}
+html.dark header h1 a:hover {
+  text-decoration-color: #f9f9f8;
+}
+html.dark .photo-gallery a img, html.dark .postlist li.postlist-item, html.dark .post-tag {
+  border-color: #f9f9f8;
+}
+html.dark a, html.dark ul.nav li a:hover, html.dark .post-tag:hover {
+  color: #e6bc53;
+}
+html.dark a {
+  text-decoration-color: #e6bc53;
+}
+html.dark .post-tag hover {
+  border-color: #e6bc53;
+}
+html.dark .github-icon {
+  filter: invert(1);
+}
+html.dark .dark-toggle a {
+  background-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' encoding='utf-8'%3F%3E%3C!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'%3E%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' xmlns:xlink='http://www.w3.org/1999/xlink' enable-background='new 0 0 512 512'%3E%3Cg%3E%3Cg%3E%3Cpath d='m275.4,500.7c-135,0-244.7-109.8-244.7-244.7 1.06581e-14-134.9 109.8-244.7 244.7-244.7 8.2,0 16.4,0.4 24.6,1.2 7.2,0.7 13.5,5.2 16.5,11.7s2.4,14.2-1.6,20.2c-23,33.8-35.2,73.3-35.2,114.2 0,105 78.7,192.2 183.2,202.6 7.2,0.7 13.5,5.2 16.5,11.7 3.1,6.5 2.4,14.2-1.6,20.2-45.8,67.4-121.4,107.6-202.4,107.6zm-12.5-448c-106.5,6.5-191.2,95.2-191.2,203.3 1.42109e-14,112.3 91.4,203.7 203.7,203.7 56.4,0 109.6-23.4 147.8-63.7-46.2-11.7-88.1-36.8-120.8-72.6-41.1-45.2-63.8-103.6-63.8-164.6 0.1-37.1 8.4-73.2 24.3-106.1z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  filter: invert(1);
 }
 /*# sourceMappingURL=index.css.map */

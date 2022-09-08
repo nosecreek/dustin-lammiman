@@ -9,6 +9,29 @@
     <link rel="stylesheet" href="/css/index.css">
     <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Dustin.Lammiman">
     <link rel="alternate" href="/feed/feed.json" type="application/json" title="Dustin.Lammiman">
+    <script type="text/javascript">
+      let darkmode = false;
+
+      if (
+        (localStorage.getItem("darkmode") && localStorage.getItem("darkmode") === "dark") ||
+        (!localStorage.getItem("darkmode") && window.matchMedia('(prefers-color-scheme: dark)').matches)
+      ) {
+        darkmode = true;
+        document.documentElement.classList.add("dark");
+      }
+
+      function toggleDarkMode() {
+        if(darkmode) {
+          document.documentElement.classList.remove("dark");
+          localStorage.setItem("darkmode", "off");
+          darkmode = false;
+        } else {
+          document.documentElement.classList.add("dark");
+          localStorage.setItem("darkmode", "dark");
+          darkmode = true;
+        }
+      }
+    </script>
   </head>
   <body>
     <header>
@@ -17,6 +40,7 @@
         <li class="nav-item"><a href="/posts/">/posts</a></li>
         <li class="nav-item"><a href="/icecream">/icecream</a></li>
         <li class="nav-item"><a href="/teardrop">/teardrop</a></li>
+        <li class="dark-toggle nav-item"><a href="#" onClick="toggleDarkMode()"> </a></li>
       </ul>
     </header>
 

@@ -9,6 +9,29 @@
     <link rel="stylesheet" href="/css/index.css">
     <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Dustin.Lammiman">
     <link rel="alternate" href="/feed/feed.json" type="application/json" title="Dustin.Lammiman">
+    <script type="text/javascript">
+      let darkmode = false;
+
+      if (
+        (localStorage.getItem("darkmode") && localStorage.getItem("darkmode") === "dark") ||
+        (!localStorage.getItem("darkmode") && window.matchMedia('(prefers-color-scheme: dark)').matches)
+      ) {
+        darkmode = true;
+        document.documentElement.classList.add("dark");
+      }
+
+      function toggleDarkMode() {
+        if(darkmode) {
+          document.documentElement.classList.remove("dark");
+          localStorage.setItem("darkmode", "off");
+          darkmode = false;
+        } else {
+          document.documentElement.classList.add("dark");
+          localStorage.setItem("darkmode", "dark");
+          darkmode = true;
+        }
+      }
+    </script>
   </head>
   <body>
     <header>
@@ -17,6 +40,7 @@
         <li class="nav-item"><a href="/posts/">/posts</a></li>
         <li class="nav-item"><a href="/icecream">/icecream</a></li>
         <li class="nav-item"><a href="/teardrop">/teardrop</a></li>
+        <li class="dark-toggle nav-item"><a href="#" onClick="toggleDarkMode()"> </a></li>
       </ul>
     </header>
 
@@ -30,22 +54,6 @@
   </thead>
   <tbody>
   <tr>
-    <td><a href="/remembrance-day/"><code>/remembrance-day/</code></a></td>
-    <td>Tagged “Remembrance Day”</td>
-  </tr>
-  <tr>
-    <td><a href="/europe/"><code>/europe/</code></a></td>
-    <td>Tagged “Europe”</td>
-  </tr>
-  <tr>
-    <td><a href="/poland/"><code>/poland/</code></a></td>
-    <td>Tagged “Poland”</td>
-  </tr>
-  <tr>
-    <td><a href="/travel/"><code>/travel/</code></a></td>
-    <td>Tagged “Travel”</td>
-  </tr>
-  <tr>
     <td><a href="/gallery/"><code>/gallery/</code></a></td>
     <td>Tagged “gallery”</td>
   </tr>
@@ -56,6 +64,22 @@
   <tr>
     <td><a href="/rome/"><code>/rome/</code></a></td>
     <td>Tagged “Rome”</td>
+  </tr>
+  <tr>
+    <td><a href="/11-11-11/"><code>/11-11-11/</code></a></td>
+    <td>Tagged “11/11/11”</td>
+  </tr>
+  <tr>
+    <td><a href="/belgium/"><code>/belgium/</code></a></td>
+    <td>Tagged “Belgium”</td>
+  </tr>
+  <tr>
+    <td><a href="/remember/"><code>/remember/</code></a></td>
+    <td>Tagged “Remember”</td>
+  </tr>
+  <tr>
+    <td><a href="/remembrance-day/"><code>/remembrance-day/</code></a></td>
+    <td>Tagged “Remembrance Day”</td>
   </tr>
   <tr>
     <td><a href="/switzerland/"><code>/switzerland/</code></a></td>
