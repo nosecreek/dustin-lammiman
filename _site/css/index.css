@@ -652,4 +652,32 @@ footer .icon {
   display: block;
   margin: 1em auto;
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #222;
+    color: #f9f9f8;
+  }
+  header h1 a, ul.nav li a, .post-tag {
+    color: #f9f9f8;
+  }
+  header h1 a:hover {
+    text-decoration: underline dashed #f9f9f8 0;
+  }
+  .photo-gallery a img, .postlist li.postlist-item, .post-tag {
+    border-color: #f9f9f8;
+  }
+  a, ul.nav li a:hover, .post-tag:hover {
+    color: #e6bc53;
+  }
+  a {
+    text-decoration: underline dashed #e6bc53 0;
+  }
+  .post-tag hover {
+    border-color: #e6bc53;
+  }
+  .github-icon {
+    filter: invert(1);
+  }
+}
 /*# sourceMappingURL=index.css.map */

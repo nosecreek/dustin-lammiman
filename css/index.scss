@@ -347,3 +347,40 @@ footer {
     margin: 1em auto;
   }
 }
+
+
+// Dark Mode
+@media (prefers-color-scheme: dark) {
+  body {
+    background: $font-color;
+    color: $bg-color;
+  }
+
+  header h1 a, ul.nav li a, .post-tag {
+    color: $bg-color;
+  }
+
+  header h1 a:hover {
+    text-decoration: underline dashed $bg-color 0;
+  }
+
+  .photo-gallery a img, .postlist li.postlist-item, .post-tag {
+    border-color: $bg-color;
+  }
+
+  a, ul.nav li a:hover, .post-tag:hover {
+    color: #e6bc53;
+  }
+
+  a {
+      text-decoration: underline dashed #e6bc53 0;
+  }
+
+  .post-tag hover {
+    border-color: #e6bc53;
+  }
+
+  .github-icon {
+    filter: invert(1);
+  }
+}
