@@ -397,6 +397,21 @@
   </url>
   
   <url>
+    <loc>https://dustin.lammiman.ca/africa/</loc>
+    <lastmod>2022-07-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/zimbabwe/</loc>
+    <lastmod>2022-07-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/hwange/</loc>
+    <lastmod>2022-07-12</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dustin.lammiman.ca/css/_includes/variables.css</loc>
     <lastmod>2022-07-14</lastmod>
   </url>
@@ -429,5 +444,10 @@
   <url>
     <loc>https://dustin.lammiman.ca/teardrop/firstjourney/</loc>
     <lastmod>2022-09-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/photos/lion-cub/</loc>
+    <lastmod>2022-09-13</lastmod>
   </url>
 </urlset>
