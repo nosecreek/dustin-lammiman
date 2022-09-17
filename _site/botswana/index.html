@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tagged “Botswana” - Dustin.Lammiman</title>
+    <meta name="description" content="Full stack developer, ice cream maker, teardrop trailer builder">
+
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Dustin.Lammiman">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Dustin.Lammiman">
+    <script type="text/javascript">
+      let darkmode = false;
+
+      if (
+        (localStorage.getItem("darkmode") && localStorage.getItem("darkmode") === "dark") ||
+        (!localStorage.getItem("darkmode") && window.matchMedia('(prefers-color-scheme: dark)').matches)
+      ) {
+        darkmode = true;
+        document.documentElement.classList.add("dark");
+      }
+
+      function toggleDarkMode() {
+        if(darkmode) {
+          document.documentElement.classList.remove("dark");
+          localStorage.setItem("darkmode", "off");
+          darkmode = false;
+        } else {
+          document.documentElement.classList.add("dark");
+          localStorage.setItem("darkmode", "dark");
+          darkmode = true;
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Dustin.Lammiman</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/posts/">/posts</a></li>
+        <li class="nav-item"><a href="/icecream">/icecream</a></li>
+        <li class="nav-item"><a href="/teardrop">/teardrop</a></li>
+        <li class="dark-toggle nav-item"><a href="#" onClick="toggleDarkMode()"> </a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-home">
+      <h1>Tagged “Botswana”</h1>
+
+
+<ol reversed class="postlist" style="counter-reset: start-from 2">
+
+  <li class="postlist-item">
+    <span class="main-post">
+      <a href="/photos/leopard/" class="postlist-link">Leopard</a>
+      <span class="tags">
+        
+          
+          <a href="/photos/" class="post-tag">photos</a>
+        
+          
+          <a href="/africa/" class="post-tag">Africa</a>
+        
+          
+          <a href="/botswana/" class="post-tag">Botswana</a>
+        
+          
+          <a href="/okavango-delta/" class="post-tag">Okavango Delta</a>
+        
+      </span>
+      <time class="postlist-date" datetime="2022-09-17">17 Sep 2022</time>
+      <p>Okavango Delta, Botswana...</p>
+      <span class="readmore"><a href="/photos/leopard/">Read More</a></span>
+    </span>
+    <span class="featured-image"><img alt="Leopard" loading="lazy" decoding="async" src="/img/Pa8TcqiR4s-400.jpeg" width="1920" height="1279" srcset="/img/Pa8TcqiR4s-400.jpeg 400w, /img/Pa8TcqiR4s-800.jpeg 800w, /img/Pa8TcqiR4s-1920.jpeg 1920w" sizes="(max-width: 400px) 400w, 800w"></span>
+  </li>
+ 
+</ol>
+
+
+<p>See <a href="/tags/">all tags</a>.</p>
+
+
+    </main>
+
+    <footer>
+      &copy; 2022 Dustin Lammiman
+      <a href="https://www.linkedin.com/in/dustin-lammiman/" class="li-icon icon"></a>
+      <a href="https://github.com/nosecreek" class="github-icon icon"></a>
+    </footer>
+
+    <!-- Current page: /botswana/ -->
+    <script src="/js/lightbox2-plus-jquery.js"></script>
+		<script>
+			lightbox.option({
+			  'positionFromTop': 25
+			})
+		</script>
+    <script data-goatcounter="https://dlammiman.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  </body>
+</html>
