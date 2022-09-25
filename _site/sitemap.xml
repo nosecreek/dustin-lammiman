@@ -317,12 +317,7 @@
   </url>
   
   <url>
-    <loc>https://dustin.lammiman.ca/italy/</loc>
-    <lastmod>2022-07-12</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dustin.lammiman.ca/rome/</loc>
+    <loc>https://dustin.lammiman.ca/poland/</loc>
     <lastmod>2022-07-12</lastmod>
   </url>
   
@@ -337,7 +332,7 @@
   </url>
   
   <url>
-    <loc>https://dustin.lammiman.ca/poland/</loc>
+    <loc>https://dustin.lammiman.ca/italy/</loc>
     <lastmod>2022-07-12</lastmod>
   </url>
   
@@ -387,7 +382,22 @@
   </url>
   
   <url>
+    <loc>https://dustin.lammiman.ca/rome/</loc>
+    <lastmod>2022-07-12</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dustin.lammiman.ca/africa/</loc>
+    <lastmod>2022-07-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/zimbabwe/</loc>
+    <lastmod>2022-07-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/mana-pools/</loc>
     <lastmod>2022-07-12</lastmod>
   </url>
   
@@ -403,11 +413,6 @@
   
   <url>
     <loc>https://dustin.lammiman.ca/okavango-delta/</loc>
-    <lastmod>2022-07-12</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dustin.lammiman.ca/zimbabwe/</loc>
     <lastmod>2022-07-12</lastmod>
   </url>
   
@@ -479,5 +484,10 @@
   <url>
     <loc>https://dustin.lammiman.ca/photos/taking-a-drink/</loc>
     <lastmod>2022-09-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/photos/hippo/</loc>
+    <lastmod>2022-09-25</lastmod>
   </url>
 </urlset>
