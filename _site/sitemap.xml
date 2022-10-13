@@ -337,7 +337,7 @@
   </url>
   
   <url>
-    <loc>https://dustin.lammiman.ca/rome/</loc>
+    <loc>https://dustin.lammiman.ca/switzerland/</loc>
     <lastmod>2022-07-12</lastmod>
   </url>
   
@@ -347,12 +347,27 @@
   </url>
   
   <url>
-    <loc>https://dustin.lammiman.ca/switzerland/</loc>
+    <loc>https://dustin.lammiman.ca/rome/</loc>
     <lastmod>2022-07-12</lastmod>
   </url>
   
   <url>
     <loc>https://dustin.lammiman.ca/car/</loc>
+    <lastmod>2022-07-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/africa/</loc>
+    <lastmod>2022-07-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/zimbabwe/</loc>
+    <lastmod>2022-07-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/hwange/</loc>
     <lastmod>2022-07-12</lastmod>
   </url>
   
@@ -387,26 +402,6 @@
   </url>
   
   <url>
-    <loc>https://dustin.lammiman.ca/africa/</loc>
-    <lastmod>2022-07-12</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dustin.lammiman.ca/zimbabwe/</loc>
-    <lastmod>2022-07-12</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dustin.lammiman.ca/hwange/</loc>
-    <lastmod>2022-07-12</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dustin.lammiman.ca/mana-pools/</loc>
-    <lastmod>2022-07-12</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dustin.lammiman.ca/botswana/</loc>
     <lastmod>2022-07-12</lastmod>
   </url>
@@ -417,12 +412,17 @@
   </url>
   
   <url>
-    <loc>https://dustin.lammiman.ca/teardrop/</loc>
+    <loc>https://dustin.lammiman.ca/mana-pools/</loc>
     <lastmod>2022-07-12</lastmod>
   </url>
   
   <url>
     <loc>https://dustin.lammiman.ca/okavango-delta/</loc>
+    <lastmod>2022-07-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/teardrop/</loc>
     <lastmod>2022-07-12</lastmod>
   </url>
   
@@ -494,5 +494,10 @@
   <url>
     <loc>https://dustin.lammiman.ca/photos/cheetah/</loc>
     <lastmod>2022-10-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/photos/elephant-watering-hole/</loc>
+    <lastmod>2022-10-13</lastmod>
   </url>
 </urlset>

@@ -5,12 +5,21 @@
 	
 	<link href="https://dustin.lammiman.ca/feed/feed.xml" rel="self"/>
 	<link href="https://dustin.lammiman.ca/"/>
-	<updated>2022-10-04T00:00:00Z</updated>
+	<updated>2022-10-13T00:00:00Z</updated>
 	<id>https://dustin.lammiman.ca/</id>
 	<author>
 		<name>Dustin Lammiman</name>
 		<email>dustin@nosecreekweb.ca</email>
 	</author>
+	
+	<entry>
+		<title>Elephant at the Watering Hole</title>
+		<link href="https://dustin.lammiman.ca/photos/elephant-watering-hole/"/>
+		<updated>2022-10-13T00:00:00Z</updated>
+		<id>https://dustin.lammiman.ca/photos/elephant-watering-hole/</id>
+		<content type="html">&lt;p&gt;Hwange National Park, Zimbabwe&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Cheetah</title>
