@@ -351,6 +351,25 @@ footer {
 }
 
 
+/* Home Page */
+.buckets-mockup {
+  width: 30%;
+  float: right;
+}
+
+@media (max-width: 680px) {
+  .buckets-mockup {
+    width: 40%;
+  }
+}
+
+@media (max-width: 590px) {
+  .buckets-mockup {
+    display: none;
+  }
+}
+
+
 // Dark Mode
 .dark-toggle {
 

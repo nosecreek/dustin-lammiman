@@ -28,9 +28,11 @@ Password: _demo_
 
 #### Buckets Viewer
 
+{% image "images/buckets-mockup.png", "Buckets Viewer", "(max-width: 400px) 200w, 400w", "buckets-mockup", "png" %}
+
 [_Buckets_](https://www.budgetwithbuckets.com/) is a fantastic envelope based budgeting software created by One Part Rain. _Buckets Viewer_ is a web app for viewing these budget files online. It works by opening the budget file (which is actually a SQLite file) from Google Drive.
 
-A demo budget file is available [on GitHub](https://github.com/nosecreek/buckets-viewer/blob/b5900b688e19f8726f90c71fce17340b846fa7d8/Sample.buckets)
+A demo budget file is available [on GitHub](https://github.com/nosecreek/buckets-viewer/blob/b5900b688e19f8726f90c71fce17340b846fa7d8/Sample.buckets).
 
 - Website: https://buckets.nosecreekweb.ca/
 - GitHub: https://github.com/nosecreek/buckets-viewer
