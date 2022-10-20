@@ -9,7 +9,7 @@ templateClass: tmpl-home
 
 Hi, my name is Dustin and I'm a full-stack web developer in Calgary, Alberta, Canada.
 
-I have always loved using computers to create things - whether it was creating my first Star Wars fanpage on `fan.starwars.com` in middle school, starting my own web design business to pay for my post-secondary education, or using an Arduino to make a real life laser maze for a "spy" themed summer camp when I was a youth pastor. I also enjoy [hiking](/hikes), [building things](/teardrop), and [making ice cream](/icecream).
+I have always loved using computers to create things - whether it was creating my first Star Wars fanpage on `fan.starwars.com` in middle school, starting my own web design business to pay for my post-secondary education, or using an Arduino to make a real life laser maze when I was a youth pastor. I also enjoy [hiking](/hikes), [building things](/teardrop), and [making ice cream](/icecream).
 
 You can also find me on [GitHub](https://github.com/nosecreek) and [LinkedIn](https://www.linkedin.com/in/dustin-lammiman/).
 
