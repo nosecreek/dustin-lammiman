@@ -40,7 +40,7 @@ A demo budget file is available [on GitHub](https://github.com/nosecreek/buckets
 
 #### Nose Creek Web Design
 
-_Nose Creek Web Design_ is a web design company I founded in 2009 to design, create, and host websites for local small businesses. This has included designing custom WordPress themes and plugins, including a complete RV Rental booking system. I have succesfully completed projects for over 40 different clients! Since 2013 I've stepped back from the business a bit, but I continue to maintain and update websites for several existing clients.
+_Nose Creek Web Design_ is a web design company I founded in 2009 to design, create, and host websites for local small businesses. This has included designing custom WordPress themes and plugins, including a complete RV Rental booking system. I have succesfully completed projects for over 40 different clients!
 
 - Website: https://nosecreekweb.ca/
 - Technologies: PHP, MySQL, WordPress, JavaScript, SCSS
