@@ -44,3 +44,11 @@ _Nose Creek Web Design_ is a web design company I founded in 2009 to design, cre
 
 - Website: https://nosecreekweb.ca/
 - Technologies: PHP, MySQL, WordPress, JavaScript, SCSS
+
+#### Fantasy Hockey Helper
+
+_Fantasy Hockey Helper_ is a tool for analyzing your weekly matchups in Yahoo! head-to-head fantasy hockey leagues. It uses data from the Yahoo! Fantasy API and the NHL API to predict how many points both you and your opponent will score in each of your league's categories. The algorithm calculates its prediction using each player's weekly schedule, injury status, and average stats from the current season.
+
+- Website: https://fantasyhockey.fly.dev/
+- GitHub: https://github.com/nosecreek/fantasy-hockey
+- Technologies: React, NodeJS, OAuth
