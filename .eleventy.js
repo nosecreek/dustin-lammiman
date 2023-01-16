@@ -20,7 +20,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
-  eleventyConfig.addPlugin(eleventySass);
+  eleventyConfig.addPlugin(eleventySass, {
+    sass: {
+      style: "compressed",
+      sourceMap: false,
+    },
+  });
 
   // Add Shortcodes
   eleventyConfig.addShortcode("excerpt", (article) => extractExcerpt(article));
