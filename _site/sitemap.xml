@@ -282,36 +282,6 @@
   </url>
   
   <url>
-    <loc>https://dustin.lammiman.ca/corner-gas/</loc>
-    <lastmod>2022-07-12</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dustin.lammiman.ca/dog-river/</loc>
-    <lastmod>2022-07-12</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dustin.lammiman.ca/11-11-11/</loc>
-    <lastmod>2022-07-12</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dustin.lammiman.ca/belgium/</loc>
-    <lastmod>2022-07-12</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dustin.lammiman.ca/remember/</loc>
-    <lastmod>2022-07-12</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dustin.lammiman.ca/remembrance-day/</loc>
-    <lastmod>2022-07-12</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dustin.lammiman.ca/europe/</loc>
     <lastmod>2022-07-12</lastmod>
   </url>
@@ -342,7 +312,12 @@
   </url>
   
   <url>
-    <loc>https://dustin.lammiman.ca/germany/</loc>
+    <loc>https://dustin.lammiman.ca/corner-gas/</loc>
+    <lastmod>2022-07-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/dog-river/</loc>
     <lastmod>2022-07-12</lastmod>
   </url>
   
@@ -352,37 +327,12 @@
   </url>
   
   <url>
+    <loc>https://dustin.lammiman.ca/germany/</loc>
+    <lastmod>2022-07-12</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dustin.lammiman.ca/car/</loc>
-    <lastmod>2022-07-12</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dustin.lammiman.ca/africa/</loc>
-    <lastmod>2022-07-12</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dustin.lammiman.ca/zimbabwe/</loc>
-    <lastmod>2022-07-12</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dustin.lammiman.ca/hwange/</loc>
-    <lastmod>2022-07-12</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dustin.lammiman.ca/botswana/</loc>
-    <lastmod>2022-07-12</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dustin.lammiman.ca/linyanti/</loc>
-    <lastmod>2022-07-12</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dustin.lammiman.ca/teardrop/</loc>
     <lastmod>2022-07-12</lastmod>
   </url>
   
@@ -417,17 +367,67 @@
   </url>
   
   <url>
+    <loc>https://dustin.lammiman.ca/africa/</loc>
+    <lastmod>2022-07-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/zimbabwe/</loc>
+    <lastmod>2022-07-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/hwange/</loc>
+    <lastmod>2022-07-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/11-11-11/</loc>
+    <lastmod>2022-07-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/belgium/</loc>
+    <lastmod>2022-07-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/remember/</loc>
+    <lastmod>2022-07-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/remembrance-day/</loc>
+    <lastmod>2022-07-12</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dustin.lammiman.ca/mana-pools/</loc>
     <lastmod>2022-07-12</lastmod>
   </url>
   
   <url>
-    <loc>https://dustin.lammiman.ca/text/</loc>
+    <loc>https://dustin.lammiman.ca/botswana/</loc>
+    <lastmod>2022-07-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/linyanti/</loc>
     <lastmod>2022-07-12</lastmod>
   </url>
   
   <url>
     <loc>https://dustin.lammiman.ca/okavango-delta/</loc>
+    <lastmod>2022-07-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/teardrop/</loc>
+    <lastmod>2022-07-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/text/</loc>
     <lastmod>2022-07-12</lastmod>
   </url>
   
@@ -499,5 +499,10 @@
   <url>
     <loc>https://dustin.lammiman.ca/photos/elephant-watering-hole/</loc>
     <lastmod>2022-10-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dustin.lammiman.ca/icecream/dairy-free-chocolate/</loc>
+    <lastmod>2026-07-30</lastmod>
   </url>
 </urlset>
